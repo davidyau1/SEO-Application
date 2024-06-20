@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SEO_Application.Models
+namespace SeraAPI.Model
 {
-     public class OrganicResult
+    public class OrganicResult
     {
         [JsonProperty("position")]
         public int? Position { get; set; }

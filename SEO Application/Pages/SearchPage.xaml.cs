@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SEO_Application.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,19 +17,21 @@ using System.Windows.Shapes;
 namespace SEO_Application.Pages
 {
     /// <summary>
-    /// Interaction logic for SearchForm.xaml
+    /// Interaction logic for SearchPage.xaml
     /// </summary>
-    public partial class SearchForm : Page
+    public partial class SearchPage : Page
     {
-        public SearchForm()
+        public SearchForm _searchForm { get; set; }
+        public SearchPage()
         {
             InitializeComponent();
+            _searchForm = new SearchForm() { KeyWord = "conveyancing software",Url= "www.smokeball.com.au" };
+            DataContext = _searchForm;
         }
         private void SearchClick(object sender, RoutedEventArgs e)
         {
-            var searchForm=new SearchForm();
 
-            NavigationService.Navigate(new SearchResults(searchForm));
+            NavigationService.Navigate(new SearchResultsPage(_searchForm));
         }
 
     }

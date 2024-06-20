@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SEO_Application.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,13 +17,13 @@ using System.Windows.Shapes;
 namespace SEO_Application.Pages
 {
     /// <summary>
-    /// Interaction logic for SearchResults.xaml
+    /// Interaction logic for SearchResultsPage.xaml
     /// </summary>
-    public partial class SearchResults : Page
+    public partial class SearchResultsPage : Page
     {
         private SearchForm _searchForm;
 
-        public SearchResults(SearchForm searchForm)
+        public SearchResultsPage(SearchForm searchForm)
         {
             InitializeComponent();
             _searchForm = searchForm;

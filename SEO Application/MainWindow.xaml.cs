@@ -20,7 +20,7 @@ namespace SEO_Application
         public MainWindow()
         {
             InitializeComponent();
-            frame.Navigate(new SearchForm());
+            frame.Navigate(new SearchPage());
 
         }
     }
