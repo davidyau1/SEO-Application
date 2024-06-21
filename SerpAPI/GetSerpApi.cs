@@ -12,17 +12,14 @@ namespace SerpAPI
 {
     public class GetSerpApi
     {
-        public List<OrganicResult> GetSerpAPIOrganicResults(SearchForm searchForm)
+        public List<OrganicResult> GetSerpAPIOrganicResults(GetSerp searchForm)
         {
             var res=new List<OrganicResult>();
             String apiKey = Environment.GetEnvironmentVariable("SerpAPIKey");//Must set SerpAPIKey in env variable
 
             Hashtable ht = new Hashtable();
             ht.Add("q", searchForm.KeyWord);
-            ht.Add("location", "Austin, Texas, United States");
             ht.Add("hl", "en");
-            ht.Add("gl", "us");
-            ht.Add("google_domain", "google.com");
             ht.Add("num", searchForm.Limit);
             try
             {

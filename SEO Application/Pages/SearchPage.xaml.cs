@@ -1,7 +1,8 @@
-﻿using SerpAPI.Models;
+﻿using SEO_Application.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -25,7 +26,7 @@ namespace SEO_Application.Pages
         public SearchPage()
         {
             InitializeComponent();
-            _searchForm = new SearchForm() { KeyWord = "conveyancing software",Url= "www.smokeball.com.au", Limit=100};
+            _searchForm = new SearchForm(keyWord: "conveyancing software", url: "www.smokeball.com.au");
             DataContext = _searchForm;
         }
         private void SearchClick(object sender, RoutedEventArgs e)

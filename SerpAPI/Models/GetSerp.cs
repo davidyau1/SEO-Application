@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace SerpAPI.Models
 {
-    public class SearchForm
+    public class GetSerp
     {
         public string KeyWord { get; set; } 
-        public string Url { get; set; }
-        public int? Limit { get; set; }
+        public int Limit { get; set; }
+
 
     }
 }

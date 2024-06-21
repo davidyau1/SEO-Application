@@ -11,5 +11,17 @@
     <Grid>
         <Label Content="Results" HorizontalAlignment="Center" VerticalAlignment="Top"/>
 
+        <Label Content="SearchTerm" HorizontalAlignment="Left" Margin="50,30,0,0" VerticalAlignment="Top"/>
+        
+        <Label HorizontalAlignment="Left" Margin="159,33,0,0" Content="{Binding KeyWord}" VerticalAlignment="Top" Width="311"/>
+
+        <Label Content="Url" HorizontalAlignment="Left" Margin="50,60,0,0" VerticalAlignment="Top"/>
+        <Label HorizontalAlignment="Left" Margin="159,63,0,0" Content="{Binding Url}" VerticalAlignment="Top" Width="311"/>
+
+
+        <Label Content="Results" HorizontalAlignment="Left" Margin="50,90,0,0" VerticalAlignment="Top"/>
+        <Label HorizontalAlignment="Left" Margin="159,93,0,0" Content="{Binding Results}" VerticalAlignment="Top" Width="311"/>
+
+
     </Grid>
 </Page>
