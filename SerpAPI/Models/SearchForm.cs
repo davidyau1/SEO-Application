@@ -4,11 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SEO_Application.Models
+namespace SerpAPI.Models
 {
     public class SearchForm
     {
         public string KeyWord { get; set; } 
-        public string Url { get; set; } 
+        public string Url { get; set; }
+        public int? Limit { get; set; }
+
     }
 }

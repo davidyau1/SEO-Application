@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:SEO_Application.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="SearchResults">
+      Title="SearchResultsPage">
 
     <Grid>
         <Label Content="Results" HorizontalAlignment="Center" VerticalAlignment="Top"/>

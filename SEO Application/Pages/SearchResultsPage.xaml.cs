@@ -1,4 +1,4 @@
-﻿using SEO_Application.Models;
+﻿using SerpAPI.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
