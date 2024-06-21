@@ -11,7 +11,7 @@ namespace SEO_Application.Controllers
     {
         //private SerpAPI _serpAPI;
         public string GetSeoPostition (SearchForm searchForm){
-            var serpAPIData = _serpAPI.GetSerpAPIOrganicResults(searchForm);
+            var serpAPIData = new List<OrganicResult>(); //_serpAPI.GetSerpAPIOrganicResults(searchForm);
             var positions= ParseSerpAPIOrganicResults(serpAPIData, searchForm.Url);
             return string.Join(" ,", positions);
 
