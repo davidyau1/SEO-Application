@@ -1,4 +1,4 @@
-namespace UnitTests
+namespace UnitTests.SerpAPI
 {
     public class Tests
     {
@@ -8,7 +8,7 @@ namespace UnitTests
         }
 
         [Test]
-        public void Test1()
+        public void SerpAPI()
         {
             Assert.Pass();
         }

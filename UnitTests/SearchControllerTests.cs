@@ -1,4 +1,4 @@
-namespace UnitTests
+namespace UnitTests.Controllers
 {
     public class Tests
     {
