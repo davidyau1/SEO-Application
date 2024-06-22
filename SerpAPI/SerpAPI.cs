@@ -19,7 +19,7 @@ namespace SerpAPI
         public List<OrganicResult> GetOrganicResults(GetSerp searchForm)
         {
             var res = new List<OrganicResult>();
-            String apiKey = Environment.GetEnvironmentVariable("SerpAPIKey");//Must set SerpAPIKey in env variable
+            String apiKey = "test";//Environment.GetEnvironmentVariable("SerpAPIKey");//Must set SerpAPIKey in env variable
 
             Hashtable ht = new Hashtable();
             ht.Add("q", searchForm.KeyWord);
