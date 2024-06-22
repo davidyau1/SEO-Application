@@ -19,14 +19,20 @@ namespace SEO_Application.Pages
             _resultForm = new ResultForm(searchForm);
             InitializeComponent();
             DataContext = _resultForm;
-            LoadSearchData();
+            Task.Run(() => LoadSearchData());
+
         }
 
 
-        private async Task LoadSearchData()
+        private void LoadSearchData()
         {
             var result = _searchController.GetSeoPostition(_searchForm);
-            if (result == null||string.IsNullOrWhiteSpace(result.Result))
+
+            //updates ui with result search data
+            this.Dispatcher.Invoke(() =>
+            {
+
+                if (result == null||string.IsNullOrWhiteSpace(result.Result))
             {
                 NavigationService.Navigate(new ErrorPage());
             }
@@ -35,11 +41,9 @@ namespace SEO_Application.Pages
                 _resultForm = result;
                 DataContext= _resultForm;
             }
+            });
+
         }
-        //private async void SearchResultLoaded(object sender, RoutedEventArgs e)
-        //{
-        //    await LoadSearchData(_searchForm);
-        //}
 
     }
 }

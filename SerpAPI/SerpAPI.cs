@@ -16,7 +16,7 @@ namespace SerpAPI
 
         private JObject GetSerpAPIData(GetSerp searchForm)
         {
-            String apiKey = "test";//Environment.GetEnvironmentVariable("SerpAPIKey");//Must set SerpAPIKey in env variable
+            String apiKey = /*"test";//*/Environment.GetEnvironmentVariable("SerpAPIKey");//Must set SerpAPIKey in env variable
             var data= new JObject();
 
             Hashtable ht = new Hashtable();
@@ -25,11 +25,8 @@ namespace SerpAPI
             ht.Add("num", searchForm.Limit.ToString());
             try
             {
-                //GoogleSearch search = new GoogleSearch(ht, apiKey);
-                //JObject data = search.GetJson();
-
-                data = JObject.Parse(File.ReadAllText("..\\..\\..\\..\\SerpAPI\\SerpAPITestData.json"));
-                //JArray results = (JArray)data["organic_results"];
+                GoogleSearch search = new GoogleSearch(ht, apiKey);
+                data = search.GetJson();
 
             }
             catch (Exception ex)
