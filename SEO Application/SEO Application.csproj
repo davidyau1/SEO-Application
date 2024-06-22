@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SerpAPI\SerpAPI.csproj" />
+    <ProjectReference Include="..\SerpAPI\SerpAPILibrary.csproj" />
   </ItemGroup>
 
 </Project>

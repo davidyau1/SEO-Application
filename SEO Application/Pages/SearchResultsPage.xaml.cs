@@ -23,13 +23,10 @@ namespace SEO_Application.Pages
     public partial class SearchResultsPage : Page
     {
         private SearchForm _searchForm;
-        private SearchController _searchController;
-        public SearchResultsPage(SearchForm searchForm)
+        public SearchResultsPage(ResultForm resultForm)
         {
             InitializeComponent();
-            _searchForm = searchForm;
-            var result = _searchController.GetSeoPostition(searchForm);
-            DataContext=new ResultForm() { Result =result};
+            DataContext = resultForm;
         }
     }
 }

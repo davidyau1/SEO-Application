@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{5D6B62F6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{4A0054D8-A1CE-419C-B04F-4F56CE5DE4DD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerpAPI", "SerpAPI\SerpAPI.csproj", "{296943CB-F4F9-4041-ACBF-A4AC753FDCC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerpAPILibrary", "SerpAPI\SerpAPILibrary.csproj", "{296943CB-F4F9-4041-ACBF-A4AC753FDCC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

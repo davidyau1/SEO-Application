@@ -1,4 +1,5 @@
 ﻿using SEO_Application.Models;
+using SerpAPI;
 using SerpAPI.Models;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,16 +10,31 @@ namespace SEO_Application.Controllers
 {
     public class SearchController
     {
-        //private SerpAPI _serpAPI;
-        public string GetSeoPostition (SearchForm searchForm){
-            var serpAPIData = new List<OrganicResult>(); //_serpAPI.GetSerpAPIOrganicResults(searchForm);
-            var positions= ParseSerpAPIOrganicResults(serpAPIData, searchForm.Url);
-            return string.Join(" ,", positions);
+        private SerpAPI.SerpAPI _serpAPI;
+        public SearchController()
+        {
+            _serpAPI = new SerpAPI.SerpAPI();
+        }
+        public ResultForm GetSeoPostition(SearchForm searchForm)
+        {
+            var result = new ResultForm()
+            {
+                KeyWord = searchForm.KeyWord,
+                Limit = searchForm.Limit,
+                Url = searchForm.Url,
+            };
+            var serpAPIData = _serpAPI.GetOrganicResults((SerpAPI.Models.GetSerp)searchForm);
+            if (serpAPIData == null)
+            {
+                result.Result = "";
+            }
+            var positions = ParseSerpAPIOrganicResults(serpAPIData, searchForm.Url);
+            result.Result = string.Join(" ,", positions);
 
-
+            return result;
         }
 
-        private List<int> ParseSerpAPIOrganicResults(List<OrganicResult> organicResultsList, string searchURL)
+        public List<int> ParseSerpAPIOrganicResults(List<OrganicResult> organicResultsList, string searchURL)
         {
             var res = new List<int>();
 

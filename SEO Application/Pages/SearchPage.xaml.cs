@@ -1,4 +1,5 @@
-﻿using SEO_Application.Models;
+﻿using SEO_Application.Controllers;
+using SEO_Application.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,17 +23,20 @@ namespace SEO_Application.Pages
     /// </summary>
     public partial class SearchPage : Page
     {
-        public SearchForm _searchForm { get; set; }
+        private SearchForm _searchForm { get; set; }
+        private SearchController _searchController;
         public SearchPage()
         {
             InitializeComponent();
+            _searchController = _searchController=new SearchController();
             _searchForm = new SearchForm(keyWord: "conveyancing software", url: "www.smokeball.com.au");
             DataContext = _searchForm;
         }
         private void SearchClick(object sender, RoutedEventArgs e)
         {
+            var result = _searchController.GetSeoPostition(_searchForm);
 
-            NavigationService.Navigate(new SearchResultsPage(_searchForm));
+            NavigationService.Navigate(new SearchResultsPage(result));
         }
 
     }

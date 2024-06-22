@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
-using SerpApi;
 using SerpAPI.Models;
+using SerpApi;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -10,28 +10,33 @@ using System.Threading.Tasks;
 
 namespace SerpAPI
 {
-    public class GetSerpApi
+    public class SerpAPI
     {
-        public List<OrganicResult> GetSerpAPIOrganicResults(GetSerp searchForm)
+
+        public SerpAPI() 
         {
-            var res=new List<OrganicResult>();
+        }
+        public List<OrganicResult> GetOrganicResults(GetSerp searchForm)
+        {
+            var res = new List<OrganicResult>();
             String apiKey = Environment.GetEnvironmentVariable("SerpAPIKey");//Must set SerpAPIKey in env variable
 
             Hashtable ht = new Hashtable();
             ht.Add("q", searchForm.KeyWord);
             ht.Add("hl", "en");
-            ht.Add("num", searchForm.Limit);
+            ht.Add("num", searchForm.Limit.ToString());
             try
             {
                 GoogleSearch search = new GoogleSearch(ht, apiKey);
                 JObject data = search.GetJson();
                 JArray results = (JArray)data["organic_results"];
 
-        
+
                 foreach (JObject result in results)
                 {
-                    OrganicResult? organicResult= result.ToObject<OrganicResult>();
-                    if (organicResult != null) {
+                    OrganicResult? organicResult = result.ToObject<OrganicResult>();
+                    if (organicResult != null)
+                    {
                         res.Add(organicResult);
                     }
                 }
@@ -44,8 +49,6 @@ namespace SerpAPI
             return res;
 
 
-
-
         }
-    } 
+    }
 }

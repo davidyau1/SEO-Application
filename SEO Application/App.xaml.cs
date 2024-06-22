@@ -1,5 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using SEO_Application.Controllers;
+using SerpAPI;
 using System.Configuration;
 using System.Data;
 using System.Security.RightsManagement;
@@ -18,6 +20,7 @@ namespace SEO_Application
             AppHost = Host.CreateDefaultBuilder()
                 .ConfigureServices((hostContext, services) =>
                 {
+                    //services.AddScoped<SearchController>();
                     services.AddSingleton<MainWindow>();
                 })
                 .Build();

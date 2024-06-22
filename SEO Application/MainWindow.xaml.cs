@@ -1,4 +1,6 @@
-﻿using SEO_Application.Pages;
+﻿using SEO_Application.Controllers;
+using SEO_Application.Pages;
+using SerpAPI;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
