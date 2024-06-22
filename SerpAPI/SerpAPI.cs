@@ -15,8 +15,8 @@ namespace SerpAPI
         }
 
         private JObject GetSerpAPIData(GetSerp searchForm)
-        {
-            String apiKey = /*"test";//*/Environment.GetEnvironmentVariable("SerpAPIKey");//Must set SerpAPIKey in env variable
+        {   //Must set SerpAPIKey in env variable
+            String apiKey = Environment.GetEnvironmentVariable("SerpAPIKey");
             var data = new JObject();
 
             Hashtable ht = new Hashtable();
