@@ -1,16 +1,22 @@
 ﻿using Newtonsoft.Json.Linq;
-using SerpAPI.Models;
+using SerpAPILibrary.Models;
 using SerpApi;
 using System.Collections;
+using SerpAPILibrary;
 
-namespace SerpAPI
+namespace SerpAPILibrary
 {
-    public class SerpAPI
+    public class SerpAPI:ISerpAPI
     {
+        public SerpAPI()
+        {
+                
+        }
+
         public List<OrganicResult> GetOrganicResults(GetSerp searchForm)
         {
             var data = GetSerpAPIData(searchForm);
-            var res = FilterOrganicResults(data);
+            var res = SerpAPIToOrganicResults(data);
             return res;
         }
 
@@ -37,7 +43,7 @@ namespace SerpAPI
             return data;
         }
 
-        private List<OrganicResult> FilterOrganicResults(JObject data)
+        public List<OrganicResult> SerpAPIToOrganicResults(JObject data)
         {
             var res = new List<OrganicResult>();
 

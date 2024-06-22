@@ -1,4 +1,5 @@
-﻿using SEO_Application.Pages;
+﻿using Controllers;
+using SEO_Application.Pages;
 using System.Windows;
 
 namespace SEO_Application
@@ -8,11 +9,13 @@ namespace SEO_Application
     /// </summary>
     public partial class MainWindow : Window
     {
+        private SearchController _searchController;
         public MainWindow()
         {
+            
             InitializeComponent();
-            frame.Navigate(new SearchPage());
-
+            _searchController = new SearchController(new SerpAPILibrary.SerpAPI());
+            frame.Navigate(new SearchPage(_searchController));
         }
     }
 }

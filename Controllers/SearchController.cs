@@ -1,13 +1,14 @@
 ﻿using Controllers.Models;
-using SerpAPI.Models;
+using SerpAPILibrary.Models;
+using SerpAPILibrary;
 namespace Controllers
 {
-    public class SearchController
+    public class SearchController:ISearchController
     {
-        private SerpAPI.SerpAPI _serpAPI;
-        public SearchController()
+        private ISerpAPI _serpAPI;
+        public SearchController(ISerpAPI serpAPI)
         {
-            _serpAPI = new SerpAPI.SerpAPI();
+            _serpAPI = serpAPI;
         }
         public ResultForm GetSeoPostition(SearchForm searchForm)
         {
@@ -23,7 +24,7 @@ namespace Controllers
                 result.Result = "";
             }
             var positions = ParseSerpAPIOrganicResults(serpAPIData, searchForm.Url);
-            result.Result = string.Join(" ,", positions);
+            result.Result = string.Join(", ", positions);
 
             return result;
         }

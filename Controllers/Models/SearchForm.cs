@@ -1,6 +1,6 @@
 ﻿namespace Controllers.Models
 {
-    public class SearchForm : SerpAPI.Models.GetSerp
+    public class SearchForm : SerpAPILibrary.Models.GetSerp
     {
         public string Url { get; set; }
 

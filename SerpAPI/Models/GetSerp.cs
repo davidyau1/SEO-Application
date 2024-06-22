@@ -1,4 +1,4 @@
-﻿namespace SerpAPI.Models
+﻿namespace SerpAPILibrary.Models
 {
     public class GetSerp
     {
