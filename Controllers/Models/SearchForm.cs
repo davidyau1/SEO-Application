@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SEO_Application.Models
+namespace Controllers.Models
 {
-    public class SearchForm:SerpAPI.Models.GetSerp
+    public class SearchForm : SerpAPI.Models.GetSerp
     {
         public string Url { get; set; }
 

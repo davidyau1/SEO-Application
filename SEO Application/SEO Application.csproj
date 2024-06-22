@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>WinExe</OutputType>
+    <OutputType>Exe</OutputType>
     <TargetFramework>net8.0-windows</TargetFramework>
     <RootNamespace>SEO_Application</RootNamespace>
     <Nullable>enable</Nullable>
@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SerpAPI\SerpAPILibrary.csproj" />
+    <ProjectReference Include="..\Controllers\Controllers.csproj" />
   </ItemGroup>
 
 </Project>

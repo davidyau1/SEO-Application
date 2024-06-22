@@ -1,12 +1,13 @@
-﻿using SEO_Application.Models;
+﻿using Controllers.Models;
 using SerpAPI;
 using SerpAPI.Models;
+using Controllers.Models;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SEO_Application.Controllers
+namespace Controllers
 {
     public class SearchController
     {
@@ -23,7 +24,7 @@ namespace SEO_Application.Controllers
                 Limit = searchForm.Limit,
                 Url = searchForm.Url,
             };
-            var serpAPIData = _serpAPI.GetOrganicResults((SerpAPI.Models.GetSerp)searchForm);
+            var serpAPIData = _serpAPI.GetOrganicResults((GetSerp)searchForm);
             if (serpAPIData == null)
             {
                 result.Result = "";

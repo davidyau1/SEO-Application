@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -18,8 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SEO Application\SEO Application.csproj" />
-    <ProjectReference Include="..\SerpAPI\SerpAPI.csproj" />
+    <ProjectReference Include="..\Controllers\Controllers.csproj" />
+    <ProjectReference Include="..\SerpAPI\SerpAPILibrary.csproj" />
   </ItemGroup>
 
   <ItemGroup>
