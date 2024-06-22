@@ -1,7 +1,6 @@
-﻿using System.Windows;
-using System.Windows.Controls;
-using Controllers;
+﻿using Controllers;
 using Controllers.Models;
+using System.Windows.Controls;
 namespace SEO_Application.Pages
 {
     /// <summary>
@@ -19,8 +18,9 @@ namespace SEO_Application.Pages
             _resultForm = new ResultForm(searchForm);
             InitializeComponent();
             DataContext = _resultForm;
-            Task.Run(() => LoadSearchData());
 
+            //Task is need to leave main thread unblocked
+            Task.Run(() => LoadSearchData());
         }
 
 
@@ -31,16 +31,15 @@ namespace SEO_Application.Pages
             //updates ui with result search data
             this.Dispatcher.Invoke(() =>
             {
-
-                if (result == null||string.IsNullOrWhiteSpace(result.Result))
-            {
-                NavigationService.Navigate(new ErrorPage());
-            }
-            else
-            {
-                _resultForm = result;
-                DataContext= _resultForm;
-            }
+                if (result == null || string.IsNullOrWhiteSpace(result.Result))
+                {
+                    NavigationService.Navigate(new ErrorPage());
+                }
+                else
+                {
+                    _resultForm = result;
+                    DataContext = _resultForm;
+                }
             });
 
         }

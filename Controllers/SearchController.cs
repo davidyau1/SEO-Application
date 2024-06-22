@@ -1,12 +1,5 @@
 ﻿using Controllers.Models;
-using SerpAPI;
 using SerpAPI.Models;
-using Controllers.Models;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System;
 namespace Controllers
 {
     public class SearchController

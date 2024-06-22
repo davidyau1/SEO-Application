@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Controllers.Models
+﻿namespace Controllers.Models
 {
     public class SearchForm : SerpAPI.Models.GetSerp
     {

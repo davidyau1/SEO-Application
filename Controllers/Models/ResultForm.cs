@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Controllers.Models
+﻿namespace Controllers.Models
 {
     public class ResultForm
     {
@@ -15,7 +9,7 @@ namespace Controllers.Models
 
         public ResultForm()
         {
-                
+
         }
         public ResultForm(SearchForm searchForm)
         {
@@ -25,5 +19,5 @@ namespace Controllers.Models
             Limit = searchForm.Limit;
         }
     }
-    
+
 }

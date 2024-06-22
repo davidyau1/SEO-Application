@@ -17,7 +17,7 @@ namespace SerpAPI
         private JObject GetSerpAPIData(GetSerp searchForm)
         {
             String apiKey = /*"test";//*/Environment.GetEnvironmentVariable("SerpAPIKey");//Must set SerpAPIKey in env variable
-            var data= new JObject();
+            var data = new JObject();
 
             Hashtable ht = new Hashtable();
             ht.Add("q", searchForm.KeyWord);
@@ -34,8 +34,8 @@ namespace SerpAPI
                 return new JObject();
 
             }
-             return data;
-        }   
+            return data;
+        }
 
         private List<OrganicResult> FilterOrganicResults(JObject data)
         {
@@ -53,6 +53,6 @@ namespace SerpAPI
             }
             return res;
         }
-      
+
     }
 }

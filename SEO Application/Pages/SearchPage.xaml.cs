@@ -1,5 +1,4 @@
-﻿using Controllers;
-using Controllers.Models;
+﻿using Controllers.Models;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Navigation;
@@ -23,7 +22,7 @@ namespace SEO_Application.Pages
         {
             NavigationService.Navigate(new SearchResultsPage(_searchForm));
         }
-      
+
 
 
     }
