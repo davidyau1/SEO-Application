@@ -24,7 +24,7 @@ namespace Controllers
                 result.Result = "";
             }
             var positions = ParseSerpAPIOrganicResults(serpAPIData, searchForm.Url);
-            result.Result = string.Join(" ,", positions);
+            result.Result = string.Join(", ", positions);
 
             return result;
         }
