@@ -2,11 +2,17 @@
 using SerpAPI.Models;
 using SerpApi;
 using System.Collections;
+using SerpAPILibrary;
 
 namespace SerpAPI
 {
-    public class SerpAPI
+    public class SerpAPI:ISerpAPI
     {
+        public SerpAPI()
+        {
+                
+        }
+
         public List<OrganicResult> GetOrganicResults(GetSerp searchForm)
         {
             var data = GetSerpAPIData(searchForm);

@@ -11,10 +11,10 @@ namespace SEO_Application.Pages
         private SearchForm _searchForm;
         private SearchController _searchController;
         private ResultForm _resultForm;
-        public SearchResultsPage(SearchForm searchForm)
+        public SearchResultsPage(SearchController c, SearchForm searchForm)
         {
             _searchForm = searchForm;
-            _searchController = new SearchController();
+            _searchController = c;
             _resultForm = new ResultForm(searchForm);
             InitializeComponent();
             DataContext = _resultForm;
