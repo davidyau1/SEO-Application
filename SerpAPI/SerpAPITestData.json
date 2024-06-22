@@ -1,0 +1,1622 @@
+﻿{
+	"search_metadata": {
+		"id": "6674a72de13508a356ac6aac",
+		"status": "Success",
+		"json_endpoint": "https://serpapi.com/searches/fc005b6efb3b215d/6674a72de13508a356ac6aac.json",
+		"created_at": "2024-06-20 22:03:25 UTC",
+		"processed_at": "2024-06-20 22:03:25 UTC",
+		"google_url": "https://www.google.com/search?q=conveyancing+software&oq=conveyancing+software&hl=en&gl=au&num=100&sourceid=chrome&ie=UTF-8",
+		"raw_html_file": "https://serpapi.com/searches/fc005b6efb3b215d/6674a72de13508a356ac6aac.html",
+		"total_time_taken": 2.58
+	},
+	"search_parameters": {
+		"engine": "google",
+		"q": "conveyancing software",
+		"google_domain": "google.com",
+		"hl": "en",
+		"gl": "au",
+		"num": "100",
+		"device": "desktop"
+	},
+	"search_information": {
+		"query_displayed": "conveyancing software",
+		"total_results": 4450000,
+		"time_taken_displayed": 0.48,
+		"organic_results_state": "Results for exact spelling"
+	},
+	"inline_images_suggested_searches": [
+		{
+			"name": "trisearch",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=trisearch+conveyancing+software&udm=2&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e33Zikit46JxO1w0Ct35ukfcaH2_u4XIBzDnTSFowxxFUlyttJ83O1TxX2mjxan3_qYQP6_tkUiPgBDDbySHjUrQf3IAZtQX9yo7r9_YYZuRJJOda18&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQgIoDKAB6BAh5EA0",
+			"uds": "ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e33Zikit46JxO1w0Ct35ukfcaH2_u4XIBzDnTSFowxxFUlyttJ83O1TxX2mjxan3_qYQP6_tkUiPgBDDbySHjUrQf3IAZtQX9yo7r9_YYZuRJJOda18",
+			"q": "trisearch conveyancing software",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=au&google_domain=google.com&hl=en&q=trisearch+conveyancing+software&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e33Zikit46JxO1w0Ct35ukfcaH2_u4XIBzDnTSFowxxFUlyttJ83O1TxX2mjxan3_qYQP6_tkUiPgBDDbySHjUrQf3IAZtQX9yo7r9_YYZuRJJOda18",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREvSZuAUd0bAp6oJE6XnF5Sl7oSlvB1PbrpFWsb82TKdbFr6H9MoFN456WKg&s"
+		},
+		{
+			"name": "matter centre",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=matter+centre+conveyancing+software&udm=2&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfn2m4HAksUrN-ds39jLS3QGGYCs5mvKoXDxjJtlF2BQ1Q-SewaF357Yve1mtQq5tzKEtvI2l3STke6LMefzphcA6OIP8&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQgIoDKAF6BAh5EBE",
+			"uds": "ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfn2m4HAksUrN-ds39jLS3QGGYCs5mvKoXDxjJtlF2BQ1Q-SewaF357Yve1mtQq5tzKEtvI2l3STke6LMefzphcA6OIP8",
+			"q": "matter centre conveyancing software",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=au&google_domain=google.com&hl=en&q=matter+centre+conveyancing+software&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfn2m4HAksUrN-ds39jLS3QGGYCs5mvKoXDxjJtlF2BQ1Q-SewaF357Yve1mtQq5tzKEtvI2l3STke6LMefzphcA6OIP8",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_0l0HGoRhXS3W-U9vlAPDUnPNEb2uG8e05h0_mpMcS3nP8G7XMbvSFPWYQA&s"
+		},
+		{
+			"name": "cats conveyancing",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=cats+conveyancing+conveyancing+software&udm=2&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfqSqqKLqiwuD471TjA7s6vlciPBySJ2FV93VSWdFCckyvqF1mVLCNZ9Ty90taSGlAHJ7TXQ&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQgIoDKAJ6BAh5EBU",
+			"uds": "ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfqSqqKLqiwuD471TjA7s6vlciPBySJ2FV93VSWdFCckyvqF1mVLCNZ9Ty90taSGlAHJ7TXQ",
+			"q": "cats conveyancing conveyancing software",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=au&google_domain=google.com&hl=en&q=cats+conveyancing+conveyancing+software&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfqSqqKLqiwuD471TjA7s6vlciPBySJ2FV93VSWdFCckyvqF1mVLCNZ9Ty90taSGlAHJ7TXQ",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqm3cUUEkfwy-V95v8EPF-TFiKt2W-28Xr78u4DuLwBeCGOJdHwD8rhQmZyg&s"
+		},
+		{
+			"name": "leap conveyancer",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=leap+conveyancer+conveyancing+software&udm=2&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfMJGWlHxXvNbnIIhUj6AkJeTRK50gnWrHaKJD4ryiY9UfYMGTyl4Ap1a6eu1tHFAWWSdeM_SsaLXxfr-Ra5SDy8m2BaI&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQgIoDKAN6BAh5EBk",
+			"uds": "ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfMJGWlHxXvNbnIIhUj6AkJeTRK50gnWrHaKJD4ryiY9UfYMGTyl4Ap1a6eu1tHFAWWSdeM_SsaLXxfr-Ra5SDy8m2BaI",
+			"q": "leap conveyancer conveyancing software",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=au&google_domain=google.com&hl=en&q=leap+conveyancer+conveyancing+software&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfMJGWlHxXvNbnIIhUj6AkJeTRK50gnWrHaKJD4ryiY9UfYMGTyl4Ap1a6eu1tHFAWWSdeM_SsaLXxfr-Ra5SDy8m2BaI",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zKwinjyPeR_sp2HuQVzhvOHkrWxSxBcEyyyi3AOIEwjTFM72mM2Uzu3l9w&s"
+		},
+		{
+			"name": "case management",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=case+management+conveyancing+software&udm=2&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfXL73zVxz94yulhlOodPgg_xw57GNZ4UwEjauTLTg_1TjrOxy6dSj10ea8eU9WiRqL3Vb_wdOaAur6V8mu3NZo19WyC0&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQgIoDKAR6BAh5EB0",
+			"uds": "ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfXL73zVxz94yulhlOodPgg_xw57GNZ4UwEjauTLTg_1TjrOxy6dSj10ea8eU9WiRqL3Vb_wdOaAur6V8mu3NZo19WyC0",
+			"q": "case management conveyancing software",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=au&google_domain=google.com&hl=en&q=case+management+conveyancing+software&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfXL73zVxz94yulhlOodPgg_xw57GNZ4UwEjauTLTg_1TjrOxy6dSj10ea8eU9WiRqL3Vb_wdOaAur6V8mu3NZo19WyC0",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36EpYuoYsR-VWNCq9OhgxkR5YVFZs7sQ6hKhp5HzPtxu6JzuKK9h8DU50Bg&s"
+		},
+		{
+			"name": "lawyers",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=lawyers+conveyancing+software&udm=2&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e33Zikit46JxO1w0Ct35ukfc1RPfU3Wh7CJ3-7xNIQX3UXAPVm0VgWVK0Hm-05ahs2pBInNniqaeqQkHQ1Y4Rd6--8-6ug&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQgIoDKAV6BAh5ECE",
+			"uds": "ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e33Zikit46JxO1w0Ct35ukfc1RPfU3Wh7CJ3-7xNIQX3UXAPVm0VgWVK0Hm-05ahs2pBInNniqaeqQkHQ1Y4Rd6--8-6ug",
+			"q": "lawyers conveyancing software",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=au&google_domain=google.com&hl=en&q=lawyers+conveyancing+software&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e33Zikit46JxO1w0Ct35ukfc1RPfU3Wh7CJ3-7xNIQX3UXAPVm0VgWVK0Hm-05ahs2pBInNniqaeqQkHQ1Y4Rd6--8-6ug",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvHjd2zCBdCxEfxUFoItp2hRTky_fo9E8xpZL93hgqWG0HHjT6qkL608zw2A&s"
+		},
+		{
+			"name": "management software",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=management+software+conveyancing+software&udm=2&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfLC2eX5UuiBi9_z7Hgc5W3z90AYhAtTLF_DILc1wVU90OuJ7hu-0YXHW90fLUdXtmSK5oIm2Loe_xggm9Q9x86AbTa5Q&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQgIoDKAZ6BAh5ECU",
+			"uds": "ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfLC2eX5UuiBi9_z7Hgc5W3z90AYhAtTLF_DILc1wVU90OuJ7hu-0YXHW90fLUdXtmSK5oIm2Loe_xggm9Q9x86AbTa5Q",
+			"q": "management software conveyancing software",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=au&google_domain=google.com&hl=en&q=management+software+conveyancing+software&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfLC2eX5UuiBi9_z7Hgc5W3z90AYhAtTLF_DILc1wVU90OuJ7hu-0YXHW90fLUdXtmSK5oIm2Loe_xggm9Q9x86AbTa5Q",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zx8xhzQ22nx53xwWdfN8TT3lv2b-9kpOoGdUc-9mtw5JFe_ct7PAiUnoxA&s"
+		},
+		{
+			"name": "conveyancing firm",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=conveyancing+firm+conveyancing+software&udm=2&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfQIqNkqcnscIakmMAoKlQ4OY-td8Fwmayr1RcT3ClBYer6U60jmC9roNNW6IjuKeirPozxQ&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQgIoDKAd6BAh5ECk",
+			"uds": "ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfQIqNkqcnscIakmMAoKlQ4OY-td8Fwmayr1RcT3ClBYer6U60jmC9roNNW6IjuKeirPozxQ",
+			"q": "conveyancing firm conveyancing software",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=au&google_domain=google.com&hl=en&q=conveyancing+firm+conveyancing+software&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfQIqNkqcnscIakmMAoKlQ4OY-td8Fwmayr1RcT3ClBYer6U60jmC9roNNW6IjuKeirPozxQ",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHR__YKqHbuCZGUOqEnQQba1_O19IEUWri8wPhl-1ighVLQtgkVMu6JtI8Rg&s"
+		},
+		{
+			"name": "kyleah conveyancing",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=kyleah+conveyancing+conveyancing+software&udm=2&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfpfo9heY-5L3OWgcmYhU0JwRZxwBoos1nEBaM7ufhLsDiJTRfaVSlgVmFv0iVMPsS7mZhJyhZOx1t0tRp_5P_gb9QFYo&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQgIoDKAh6BAh5EC0",
+			"uds": "ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfpfo9heY-5L3OWgcmYhU0JwRZxwBoos1nEBaM7ufhLsDiJTRfaVSlgVmFv0iVMPsS7mZhJyhZOx1t0tRp_5P_gb9QFYo",
+			"q": "kyleah conveyancing conveyancing software",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=au&google_domain=google.com&hl=en&q=kyleah+conveyancing+conveyancing+software&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfpfo9heY-5L3OWgcmYhU0JwRZxwBoos1nEBaM7ufhLsDiJTRfaVSlgVmFv0iVMPsS7mZhJyhZOx1t0tRp_5P_gb9QFYo",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZsktGjMg15KcGqhxbo9SXs58PqrQiWu28muMjl0UI-A&s"
+		},
+		{
+			"name": "intouch conveyancing",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=intouch+conveyancing+conveyancing+software&udm=2&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfJhGWBv7NKZ9wedUsA6f-X5PVksmXC48umIIyXltXuEx9qn1IkS5Obg2mn3ChKUBFTGnt2LGKktKuE3eCAOaJwZVIINg&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQgIoDKAl6BAh5EDE",
+			"uds": "ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfJhGWBv7NKZ9wedUsA6f-X5PVksmXC48umIIyXltXuEx9qn1IkS5Obg2mn3ChKUBFTGnt2LGKktKuE3eCAOaJwZVIINg",
+			"q": "intouch conveyancing conveyancing software",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=au&google_domain=google.com&hl=en&q=intouch+conveyancing+conveyancing+software&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfJhGWBv7NKZ9wedUsA6f-X5PVksmXC48umIIyXltXuEx9qn1IkS5Obg2mn3ChKUBFTGnt2LGKktKuE3eCAOaJwZVIINg",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfugFj8nC-7UHnCMGQ22Urx4LNUrVrrRDo7uu_qX2RPg&s"
+		},
+		{
+			"name": "property",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=property+conveyancing+software&udm=2&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e33Zikit46JxO1w0Ct35ukfcgh1BeySaGEMn1bdIUc2C4WjMbhlPISSLVeuoif9pQofW6--wWzOnj32D1rNVGHyGPVG0UTkJtEcddbCgUiTJqIr7CW8&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQgIoDKAp6BAh5EDU",
+			"uds": "ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e33Zikit46JxO1w0Ct35ukfcgh1BeySaGEMn1bdIUc2C4WjMbhlPISSLVeuoif9pQofW6--wWzOnj32D1rNVGHyGPVG0UTkJtEcddbCgUiTJqIr7CW8",
+			"q": "property conveyancing software",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=au&google_domain=google.com&hl=en&q=property+conveyancing+software&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e33Zikit46JxO1w0Ct35ukfcgh1BeySaGEMn1bdIUc2C4WjMbhlPISSLVeuoif9pQofW6--wWzOnj32D1rNVGHyGPVG0UTkJtEcddbCgUiTJqIr7CW8",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE4AAYUtEus06YuXfVyZrLV18Y0ke7DkXv3Pi05m74RQ&s"
+		},
+		{
+			"name": "trust account",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=trust+account+conveyancing+software&udm=2&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfmJKF8O3rALywzOFOHnV-EMEzx9usTLTinUp7JDAJ1JKQWNpJOCr-78h8Ud5OojrTn-q7FPTR1oag9x5nZNpstuCRfvo&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQgIoDKAt6BAh5EDk",
+			"uds": "ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfmJKF8O3rALywzOFOHnV-EMEzx9usTLTinUp7JDAJ1JKQWNpJOCr-78h8Ud5OojrTn-q7FPTR1oag9x5nZNpstuCRfvo",
+			"q": "trust account conveyancing software",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=au&google_domain=google.com&hl=en&q=trust+account+conveyancing+software&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e32e2ii627mC5KUawuCbDHXfmJKF8O3rALywzOFOHnV-EMEzx9usTLTinUp7JDAJ1JKQWNpJOCr-78h8Ud5OojrTn-q7FPTR1oag9x5nZNpstuCRfvo",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY5CqRL0Ynhp7_tuJGOknwnIuNkmzfgNPjl5CyG7nuUg&s"
+		},
+		{
+			"name": "law firms",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=law+firms+conveyancing+software&udm=2&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e33Zikit46JxO1w0Ct35ukfc4KWUyQB2yq2qv7dscAFZXlzilgqPFN6XUzgFxVgQkX7r6AellxoMYnfTHTzdlOoi-a82d2xvUx7L7jd9qSguTmE93QA&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQgIoDKAx6BAh5ED0",
+			"uds": "ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e33Zikit46JxO1w0Ct35ukfc4KWUyQB2yq2qv7dscAFZXlzilgqPFN6XUzgFxVgQkX7r6AellxoMYnfTHTzdlOoi-a82d2xvUx7L7jd9qSguTmE93QA",
+			"q": "law firms conveyancing software",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=au&google_domain=google.com&hl=en&q=law+firms+conveyancing+software&uds=ADvngMhWLxdD0hqgqE9I5Yd4cUhi69MV7BezXWLqEdNiepfdaWuIl73Spov8laKZI1y6e33Zikit46JxO1w0Ct35ukfc4KWUyQB2yq2qv7dscAFZXlzilgqPFN6XUzgFxVgQkX7r6AellxoMYnfTHTzdlOoi-a82d2xvUx7L7jd9qSguTmE93QA",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2YrRnSt0vlvzWeuU7_N3Cda0T0348Hzws1TO_Mw70HQ&s"
+		}
+	],
+	"inline_images": [
+		{
+			"link": "https://www.leap.com.au/area-of-law/conveyancing/",
+			"source": "https://www.leap.com.au/area-of-law/conveyancing/",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjNfYe5iqpKLCN-A0Bi2m595nzQ7CrSA4lkZex3QC257zHhRxYMbMp5xm3uQ&s",
+			"original": "https://a.storyblok.com/f/126141/1131x809/507c720fe3/aol-conveyancing_e-conveyancing-pexa.png/m/fit-in/2560x1800/filters:format(png)",
+			"title": "Practice Productivity Solutions for Conveyancers | LEAP ...",
+			"source_name": "LEAP Legal Software"
+		},
+		{
+			"link": "https://www.trisearch.com.au/start-2022-with-free-conveyancing-software/",
+			"source": "https://www.trisearch.com.au/start-2022-with-free-conveyancing-software/",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_WTx1XITrZkmURTi-K9QkQqFONkJGDRQebbN9xLvCeRdepgvN_bmsGQqN5Q&s",
+			"original": "https://www.trisearch.com.au/wp-content/uploads/2022/12/triConvey-bells-and-whistles-1024x574.jpg",
+			"title": "Start 2022 with a Powerful, Free Conveyancing Software ...",
+			"source_name": "triSearch"
+		},
+		{
+			"link": "https://www.conveyancesoft.com.au/",
+			"source": "https://www.conveyancesoft.com.au/",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGT9GFtEyr25NDg23Hg2HCeoJhsfo9fxb-Hoy810Fu0fE-_Bni9d_hW01VGw&s",
+			"original": "https://www.conveyancesoft.com.au/wp-content/uploads/2020/05/vedioimg2.png",
+			"title": "Conveyancing Software For Property Conveyancing | ConveyanceSoft",
+			"source_name": "www.conveyancesoft.com.au"
+		}
+	],
+	"related_questions": [
+		{
+			"question": "What software do conveyancers use?",
+			"snippet": "triConvey is a practice management software built for conveyancers. With powerful integrated tools and automations, triConvey creates time for users so they can focus on the things that are important to them.",
+			"title": "triConvey - triSearch",
+			"link": "https://www.trisearch.com.au/triconvey/#:~:text=triConvey%20is%20a%20practice%20management,that%20are%20important%20to%20them.",
+			"displayed_link": "https://www.trisearch.com.au › triconvey",
+			"next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T0xVZ3RlRFZKTTBGTU9VaENhWEZtTXpOTldXWlhja3BMYWtoMVJVUkpaVk0zZUVSdU4xVkdiazlLZWtrM1FqRTNaVGhOYUVOaVEzTjJWVFYxVVZaM1JHRkRaMjVYRWhkTU5tUXdXblZRYjBGZllrUjJjakJRTUZsNU1YbEJkeG9pUVVaWWNrVmpjR3Q2V0Vzd1NrNTFVMFpTYlRGM1NHVlJjVXhtUW5WWWNuSm9RUSIsImZjdiI6IjMiLCJlaSI6Ikw2ZDBadVBvQV9iRHZyMFAwWXkxeUF3IiwicWMiOiJDaFZqYjI1MlpYbGhibU5wYm1jZ2MyOW1kSGRoY21VUUFIMVRDek1fIiwicXVlc3Rpb24iOiJXaGF0IHNvZnR3YXJlIGRvIGNvbnZleWFuY2VycyB1c2U/IiwibGsiOiJHaUYzYUdGMElITnZablIzWVhKbElHUnZJR052Ym5abGVXRnVZMlZ5Y3lCMWMyVSIsImJzIjoiYy1QeTRWSUt6MGdzVVNqT1R5c3BUeXhLVlVqSlYwak96eXRMclV6TVMwNHRLbFlvTFU2MWx6aWtZS1FzcFZoT1NDR1hNNWVxUjM2NVFtNXBjb1pDWnJGQ0lySUtoYlRVVklYTVBBV180SEI3aVU1bkkzRXBVYmhzWmw0NlNMcFlJYS00bkN1Q1N3X3NKS0FCSlJtcENpaUtDb3J5azFPTGkwSG1PSllXbHhRbDVtUW0ya3ZjaUFVNUQ1ZkNSSmhDcmlRdVhaRHpjdktCQ2xMeWdkYWhhQ2xKekU1Rk1faThscEdlbEU0R1lUMXdPd1FZQVEiLCJpZCI6ImZjXzEifQ==",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T0xVZ3RlRFZKTTBGTU9VaENhWEZtTXpOTldXWlhja3BMYWtoMVJVUkpaVk0zZUVSdU4xVkdiazlLZWtrM1FqRTNaVGhOYUVOaVEzTjJWVFYxVVZaM1JHRkRaMjVYRWhkTU5tUXdXblZRYjBGZllrUjJjakJRTUZsNU1YbEJkeG9pUVVaWWNrVmpjR3Q2V0Vzd1NrNTFVMFpTYlRGM1NHVlJjVXhtUW5WWWNuSm9RUSIsImZjdiI6IjMiLCJlaSI6Ikw2ZDBadVBvQV9iRHZyMFAwWXkxeUF3IiwicWMiOiJDaFZqYjI1MlpYbGhibU5wYm1jZ2MyOW1kSGRoY21VUUFIMVRDek1fIiwicXVlc3Rpb24iOiJXaGF0IHNvZnR3YXJlIGRvIGNvbnZleWFuY2VycyB1c2U%2FIiwibGsiOiJHaUYzYUdGMElITnZablIzWVhKbElHUnZJR052Ym5abGVXRnVZMlZ5Y3lCMWMyVSIsImJzIjoiYy1QeTRWSUt6MGdzVVNqT1R5c3BUeXhLVlVqSlYwak96eXRMclV6TVMwNHRLbFlvTFU2MWx6aWtZS1FzcFZoT1NDR1hNNWVxUjM2NVFtNXBjb1pDWnJGQ0lySUtoYlRVVklYTVBBV180SEI3aVU1bkkzRXBVYmhzWmw0NlNMcFlJYS00bkN1Q1N3X3NKS0FCSlJtcENpaUtDb3J5azFPTGkwSG1PSllXbHhRbDVtUW0ya3ZjaUFVNUQ1ZkNSSmhDcmlRdVhaRHpjdktCQ2xMeWdkYWhhQ2xKekU1Rk1faThscEdlbEU0R1lUMXdPd1FZQVEiLCJpZCI6ImZjXzEifQ%3D%3D"
+		},
+		{
+			"question": "How much is a conveyancer fee in NSW?",
+			"snippet": "The fee depends on the property type, value, location, transaction difficulty, and individual conveyancer fees. Average conveyancing costs in NSW can range from $1 000 to $2 500. The amount of conveyancing fees for NSW property sales makes using a reliable licensed conveyancer essential.",
+			"title": "Conveyancer Fees in NSW - What to Expect",
+			"date": "7 Mar 2024",
+			"link": "https://strictlyconveyancing.com.au/conveyancer-fees-in-nsw-what-to-expect/#:~:text=The%20fee%20depends%20on%20the,a%20reliable%20licensed%20conveyancer%20essential.",
+			"displayed_link": "https://strictlyconveyancing.com.au › conveyancer-fees-i...",
+			"source_logo": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/62aba94a44ae06cdfdcf17320c65bb952502be9a5048182d66967483912ddc99.png",
+			"next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T0xVZ3RlRFZKTTBGTU9VaENhWEZtTXpOTldXWlhja3BMYWtoMVJVUkpaVk0zZUVSdU4xVkdiazlLZWtrM1FqRTNaVGhOYUVOaVEzTjJWVFYxVVZaM1JHRkRaMjVYRWhkTU5tUXdXblZRYjBGZllrUjJjakJRTUZsNU1YbEJkeG9pUVVaWWNrVmpjR3Q2V0Vzd1NrNTFVMFpTYlRGM1NHVlJjVXhtUW5WWWNuSm9RUSIsImZjdiI6IjMiLCJlaSI6Ikw2ZDBadVBvQV9iRHZyMFAwWXkxeUF3IiwicWMiOiJDaFZqYjI1MlpYbGhibU5wYm1jZ2MyOW1kSGRoY21VUUFIMVRDek1fIiwicXVlc3Rpb24iOiJIb3cgbXVjaCBpcyBhIGNvbnZleWFuY2VyIGZlZSBpbiBOU1c/IiwibGsiOiJHaFZqYjI1MlpYbGhibU5wYm1jZ1ptVmxjeUJ1YzNjIiwiYnMiOiJjLVB5NFZJS3owZ3NVU2pPVHlzcFR5eEtWVWpKVjBqT3p5dExyVXpNUzA0dEtsWW9MVTYxbHppa1lLUXNwVmhPU0NHWE01ZXFSMzY1UW01cGNvWkNackZDSXJJS2hiVFVWSVhNUEFXXzRIQjdpVTVuSTNFcFViaHNabDQ2U0xwWUlhLTRuQ3VDU3dfc0pLQUJKUm1wQ2lpS0NvcnlrMU9MaTBIbU9KWVdseFFsNW1RbTJrdmNpQVU1RDVmQ1JKaENyaVF1WFpEemN2S0JDbEx5Z2RhaGFDbEp6RTVGTV9pOGxwR2VsRTRHWVQxd093UVlBUSIsImlkIjoiZmNfMSJ9",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T0xVZ3RlRFZKTTBGTU9VaENhWEZtTXpOTldXWlhja3BMYWtoMVJVUkpaVk0zZUVSdU4xVkdiazlLZWtrM1FqRTNaVGhOYUVOaVEzTjJWVFYxVVZaM1JHRkRaMjVYRWhkTU5tUXdXblZRYjBGZllrUjJjakJRTUZsNU1YbEJkeG9pUVVaWWNrVmpjR3Q2V0Vzd1NrNTFVMFpTYlRGM1NHVlJjVXhtUW5WWWNuSm9RUSIsImZjdiI6IjMiLCJlaSI6Ikw2ZDBadVBvQV9iRHZyMFAwWXkxeUF3IiwicWMiOiJDaFZqYjI1MlpYbGhibU5wYm1jZ2MyOW1kSGRoY21VUUFIMVRDek1fIiwicXVlc3Rpb24iOiJIb3cgbXVjaCBpcyBhIGNvbnZleWFuY2VyIGZlZSBpbiBOU1c%2FIiwibGsiOiJHaFZqYjI1MlpYbGhibU5wYm1jZ1ptVmxjeUJ1YzNjIiwiYnMiOiJjLVB5NFZJS3owZ3NVU2pPVHlzcFR5eEtWVWpKVjBqT3p5dExyVXpNUzA0dEtsWW9MVTYxbHppa1lLUXNwVmhPU0NHWE01ZXFSMzY1UW01cGNvWkNackZDSXJJS2hiVFVWSVhNUEFXXzRIQjdpVTVuSTNFcFViaHNabDQ2U0xwWUlhLTRuQ3VDU3dfc0pLQUJKUm1wQ2lpS0NvcnlrMU9MaTBIbU9KWVdseFFsNW1RbTJrdmNpQVU1RDVmQ1JKaENyaVF1WFpEemN2S0JDbEx5Z2RhaGFDbEp6RTVGTV9pOGxwR2VsRTRHWVQxd093UVlBUSIsImlkIjoiZmNfMSJ9"
+		},
+		{
+			"question": "What is the conveyancing process in Australia?",
+			"snippet": "Conveyancing involves preparing, verifying and lodging the various legal documents associated with home buying and selling, as well as preparing the contract for settlement. The conveyancing process operates at all stages of home buyer, across: pre-contract. pre-completion.",
+			"title": "What does a conveyancer do in Australia? - OwnHome",
+			"link": "https://ownhome.com/buying-a-home/conveyancers-in-australia#:~:text=Conveyancing%20involves%20preparing%2C%20verifying%20and,pre%2Dcompletion",
+			"displayed_link": "https://ownhome.com › buying-a-home › conveyancers-i...",
+			"source_logo": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/62aba94a44ae06cdfdcf17320c65bb95c1a0eb1a646c896459af228b20ff63cf.png",
+			"next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T0xVZ3RlRFZKTTBGTU9VaENhWEZtTXpOTldXWlhja3BMYWtoMVJVUkpaVk0zZUVSdU4xVkdiazlLZWtrM1FqRTNaVGhOYUVOaVEzTjJWVFYxVVZaM1JHRkRaMjVYRWhkTU5tUXdXblZRYjBGZllrUjJjakJRTUZsNU1YbEJkeG9pUVVaWWNrVmpjR3Q2V0Vzd1NrNTFVMFpTYlRGM1NHVlJjVXhtUW5WWWNuSm9RUSIsImZjdiI6IjMiLCJlaSI6Ikw2ZDBadVBvQV9iRHZyMFAwWXkxeUF3IiwicWMiOiJDaFZqYjI1MlpYbGhibU5wYm1jZ2MyOW1kSGRoY21VUUFIMVRDek1fIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjb252ZXlhbmNpbmcgcHJvY2VzcyBpbiBBdXN0cmFsaWE/IiwibGsiOiJHaUZqYjI1MlpYbGhibU5wYm1jZ2NISnZZMlZ6Y3lCcGJpQmhkWE4wY21Gc2FXRSIsImJzIjoiYy1QeTRWSUt6MGdzVVNqT1R5c3BUeXhLVlVqSlYwak96eXRMclV6TVMwNHRLbFlvTFU2MWx6aWtZS1FzcFZoT1NDR1hNNWVxUjM2NVFtNXBjb1pDWnJGQ0lySUtoYlRVVklYTVBBV180SEI3aVU1bkkzRXBVYmhzWmw0NlNMcFlJYS00bkN1Q1N3X3NKS0FCSlJtcENpaUtDb3J5azFPTGkwSG1PSllXbHhRbDVtUW0ya3ZjaUFVNUQ1ZkNSSmhDcmlRdVhaRHpjdktCQ2xMeWdkYWhhQ2xKekU1Rk1faThscEdlbEU0R1lUMXdPd1FZQVEiLCJpZCI6ImZjXzEifQ==",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T0xVZ3RlRFZKTTBGTU9VaENhWEZtTXpOTldXWlhja3BMYWtoMVJVUkpaVk0zZUVSdU4xVkdiazlLZWtrM1FqRTNaVGhOYUVOaVEzTjJWVFYxVVZaM1JHRkRaMjVYRWhkTU5tUXdXblZRYjBGZllrUjJjakJRTUZsNU1YbEJkeG9pUVVaWWNrVmpjR3Q2V0Vzd1NrNTFVMFpTYlRGM1NHVlJjVXhtUW5WWWNuSm9RUSIsImZjdiI6IjMiLCJlaSI6Ikw2ZDBadVBvQV9iRHZyMFAwWXkxeUF3IiwicWMiOiJDaFZqYjI1MlpYbGhibU5wYm1jZ2MyOW1kSGRoY21VUUFIMVRDek1fIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjb252ZXlhbmNpbmcgcHJvY2VzcyBpbiBBdXN0cmFsaWE%2FIiwibGsiOiJHaUZqYjI1MlpYbGhibU5wYm1jZ2NISnZZMlZ6Y3lCcGJpQmhkWE4wY21Gc2FXRSIsImJzIjoiYy1QeTRWSUt6MGdzVVNqT1R5c3BUeXhLVlVqSlYwak96eXRMclV6TVMwNHRLbFlvTFU2MWx6aWtZS1FzcFZoT1NDR1hNNWVxUjM2NVFtNXBjb1pDWnJGQ0lySUtoYlRVVklYTVBBV180SEI3aVU1bkkzRXBVYmhzWmw0NlNMcFlJYS00bkN1Q1N3X3NKS0FCSlJtcENpaUtDb3J5azFPTGkwSG1PSllXbHhRbDVtUW0ya3ZjaUFVNUQ1ZkNSSmhDcmlRdVhaRHpjdktCQ2xMeWdkYWhhQ2xKekU1Rk1faThscEdlbEU0R1lUMXdPd1FZQVEiLCJpZCI6ImZjXzEifQ%3D%3D"
+		},
+		{
+			"question": "How long does conveyancing take in Australia?",
+			"snippet": "On average, the conveyancing process in Australia usually takes between 6 to 12 weeks, although it is important to note that this timeline can be shorter or longer based on the specific circumstances of each transaction.",
+			"title": "between 6 to 12 weeks",
+			"date": "17 July 2023",
+			"link": "https://eckermanns.com.au/conveyancers/how-long-does-conveyancing-take/#:~:text=On%20average%2C%20the%20conveyancing%20process,specific%20circumstances%20of%20each%20transaction.",
+			"displayed_link": "https://eckermanns.com.au › conveyancers › how-long-d...",
+			"source_logo": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/62aba94a44ae06cdfdcf17320c65bb95256a930f6bd567522ff6550a5f6b8cb7.png",
+			"next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T0xVZ3RlRFZKTTBGTU9VaENhWEZtTXpOTldXWlhja3BMYWtoMVJVUkpaVk0zZUVSdU4xVkdiazlLZWtrM1FqRTNaVGhOYUVOaVEzTjJWVFYxVVZaM1JHRkRaMjVYRWhkTU5tUXdXblZRYjBGZllrUjJjakJRTUZsNU1YbEJkeG9pUVVaWWNrVmpjR3Q2V0Vzd1NrNTFVMFpTYlRGM1NHVlJjVXhtUW5WWWNuSm9RUSIsImZjdiI6IjMiLCJlaSI6Ikw2ZDBadVBvQV9iRHZyMFAwWXkxeUF3IiwicWMiOiJDaFZqYjI1MlpYbGhibU5wYm1jZ2MyOW1kSGRoY21VUUFIMVRDek1fIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBkb2VzIGNvbnZleWFuY2luZyB0YWtlIGluIEF1c3RyYWxpYT8iLCJsayI6IkdpeG9iM2NnYkc5dVp5QmtiMlZ6SUdOdmJuWmxlV0Z1WTJsdVp5QjBZV3RsSUdsdUlHRjFjM1J5WVd4cFlRIiwiYnMiOiJjLVB5NFZJS3owZ3NVU2pPVHlzcFR5eEtWVWpKVjBqT3p5dExyVXpNUzA0dEtsWW9MVTYxbHppa1lLUXNwVmhPU0NHWE01ZXFSMzY1UW01cGNvWkNackZDSXJJS2hiVFVWSVhNUEFXXzRIQjdpVTVuSTNFcFViaHNabDQ2U0xwWUlhLTRuQ3VDU3dfc0pLQUJKUm1wQ2lpS0NvcnlrMU9MaTBIbU9KWVdseFFsNW1RbTJrdmNpQVU1RDVmQ1JKaENyaVF1WFpEemN2S0JDbEx5Z2RhaGFDbEp6RTVGTV9pOGxwR2VsRTRHWVQxd093UVlBUSIsImlkIjoiZmNfMSJ9",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T0xVZ3RlRFZKTTBGTU9VaENhWEZtTXpOTldXWlhja3BMYWtoMVJVUkpaVk0zZUVSdU4xVkdiazlLZWtrM1FqRTNaVGhOYUVOaVEzTjJWVFYxVVZaM1JHRkRaMjVYRWhkTU5tUXdXblZRYjBGZllrUjJjakJRTUZsNU1YbEJkeG9pUVVaWWNrVmpjR3Q2V0Vzd1NrNTFVMFpTYlRGM1NHVlJjVXhtUW5WWWNuSm9RUSIsImZjdiI6IjMiLCJlaSI6Ikw2ZDBadVBvQV9iRHZyMFAwWXkxeUF3IiwicWMiOiJDaFZqYjI1MlpYbGhibU5wYm1jZ2MyOW1kSGRoY21VUUFIMVRDek1fIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBkb2VzIGNvbnZleWFuY2luZyB0YWtlIGluIEF1c3RyYWxpYT8iLCJsayI6IkdpeG9iM2NnYkc5dVp5QmtiMlZ6SUdOdmJuWmxlV0Z1WTJsdVp5QjBZV3RsSUdsdUlHRjFjM1J5WVd4cFlRIiwiYnMiOiJjLVB5NFZJS3owZ3NVU2pPVHlzcFR5eEtWVWpKVjBqT3p5dExyVXpNUzA0dEtsWW9MVTYxbHppa1lLUXNwVmhPU0NHWE01ZXFSMzY1UW01cGNvWkNackZDSXJJS2hiVFVWSVhNUEFXXzRIQjdpVTVuSTNFcFViaHNabDQ2U0xwWUlhLTRuQ3VDU3dfc0pLQUJKUm1wQ2lpS0NvcnlrMU9MaTBIbU9KWVdseFFsNW1RbTJrdmNpQVU1RDVmQ1JKaENyaVF1WFpEemN2S0JDbEx5Z2RhaGFDbEp6RTVGTV9pOGxwR2VsRTRHWVQxd093UVlBUSIsImlkIjoiZmNfMSJ9"
+		}
+	],
+	"organic_results": [
+		{
+			"position": 1,
+			"title": "Best Conveyancing Law Firm Software",
+			"link": "https://www.smokeball.com.au/practice-area/conveyancing-software",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.smokeball.com.au/practice-area/conveyancing-software&usg=AOvVaw2C3LyUle25nitYmoraLwgS",
+			"displayed_link": "https://www.smokeball.com.au › practice-area › convey...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2a94c7718b5367dce38e8038eefc2128e.png",
+			"snippet": "Streamline conveyancing processes with our cutting-edge software for law firms. Enhance efficiency and accuracy. Discover Smokeball's conveyancing software ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "Smokeball Australia"
+		},
+		{
+			"position": 2,
+			"title": "LEAP Conveyancer: Conveyancing Practice Management ...",
+			"link": "https://www.leapconveyancer.com.au/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.leapconveyancer.com.au/&usg=AOvVaw0q4C8fVurEc2qT5pwUJNdk",
+			"displayed_link": "https://www.leapconveyancer.com.au",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d264162427afc79764a541745aff4d951b.jpeg",
+			"snippet": "The smartest conveyancing software that will manage your matters and automate tasks. Book a Demo. Australia's most widely used practice management system for e- ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "LEAP Conveyancer"
+		},
+		{
+			"position": 3,
+			"title": "triConvey",
+			"link": "https://www.trisearch.com.au/triconvey/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.trisearch.com.au/triconvey/&usg=AOvVaw3ZJ0J0mh-vdVnaWxMWj44U",
+			"displayed_link": "https://www.trisearch.com.au › triconvey",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d29be4961fe257d6ad7675a49017813a53.png",
+			"snippet": "triConvey is a practice management software built for conveyancers. With powerful integrated tools and automations, triConvey creates time for users so they ...",
+			"snippet_highlighted_words": [
+				"software",
+				"conveyancers"
+			],
+			"source": "triSearch"
+		},
+		{
+			"position": 4,
+			"title": "Practice Productivity Solutions for Conveyancers",
+			"link": "https://www.leap.com.au/area-of-law/conveyancing/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.leap.com.au/area-of-law/conveyancing/&usg=AOvVaw34hUXxhhNKLnVSj4cBVJMX",
+			"displayed_link": "https://www.leap.com.au › area-of-law › conveyancing",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d20ec2942d5c129087d125529b6fc9c2a8.png",
+			"snippet": "Conveyancing Automate your e-conveyancing with integrated searching & settlement. ... Copyright © 2024 LEAP Legal Software. All rights reserved. Terms Privacy ...",
+			"snippet_highlighted_words": [
+				"Conveyancing",
+				"conveyancing",
+				"Software"
+			],
+			"source": "LEAP Legal Software"
+		},
+		{
+			"position": 5,
+			"title": "Legal & Conveyancing",
+			"link": "https://www.infotrack.com.au/industries/legal-conveyancing/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.infotrack.com.au/industries/legal-conveyancing/&usg=AOvVaw1nmrgzWgZ5EuvAUHg8M050",
+			"displayed_link": "https://www.infotrack.com.au › Industries",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d20908512aeb8557f15b57050659ed626f.png",
+			"snippet": "Legal and conveyancing products to help you work smarter. Conduct property, personal and corporate searches including title searches, property certificates, ...",
+			"snippet_highlighted_words": [
+				"conveyancing"
+			],
+			"source": "InfoTrack"
+		},
+		{
+			"position": 6,
+			"title": "The Complete Conveyancing Software Solution",
+			"link": "https://www.hoowla.com/conveyancing-software/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.hoowla.com/conveyancing-software/&usg=AOvVaw1pBku6jNkqjNdMNlsE9BU0",
+			"displayed_link": "https://www.hoowla.com › conveyancing-software",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d25c65bc45659d4233038e986edb8163bb.png",
+			"snippet": "Hoowla is a comprehensive conveyancing software solution that streamlines and simplifies the complex process of property conveyancing.",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "Hoowla"
+		},
+		{
+			"position": 7,
+			"title": "Conveyancing Software, Case Management Software - InTouch",
+			"link": "https://www.intouch.cloud/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.intouch.cloud/&usg=AOvVaw1nM9qfiEgUDbNEcL7Xm3U-",
+			"displayed_link": "https://www.intouch.cloud",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d278fa94496635553b395ba23b17d36355.png",
+			"snippet": "InTouch is a conveyancing software and case management solution, which is easy to use and seamlessly automates administrative tasks by pre-populating data ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "InTouch Conveyancing Software"
+		},
+		{
+			"position": 8,
+			"title": "Conveyancing & Real Estate Law Software",
+			"link": "https://www.actionstep.com/practice-areas/real-estate/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.actionstep.com/practice-areas/real-estate/&usg=AOvVaw2zmTVAdOpQN--E-Vqq61Yx",
+			"displayed_link": "https://www.actionstep.com › practice-areas › real-estate",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2d65af85bed751f14606b651d29afb87b.png",
+			"snippet": "Actionstep's practice management software keeps Real Estate & Conveyancing lawyers a step ahead. Streamline Your Workload. Real estate practices have a ...",
+			"snippet_highlighted_words": [
+				"software",
+				"Conveyancing"
+			],
+			"source": "Actionstep"
+		},
+		{
+			"position": 9,
+			"title": "Software I Dye & Durham - Formerly GlobalX",
+			"link": "https://globalx.com.au/software/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://globalx.com.au/software/&usg=AOvVaw1mfIv2-KVaptvRzWcI-16s",
+			"displayed_link": "https://globalx.com.au › software",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d232129b51ca76315b67eff256380df993.png",
+			"snippet": "Conveyancing Management. Matter Centre is the only workflow that offers property lawyers and conveyancers integrated PEXA settlements alongside superior next ...",
+			"snippet_highlighted_words": [
+				"Conveyancing",
+				"conveyancers"
+			],
+			"source": "globalx.com.au"
+		},
+		{
+			"position": 10,
+			"title": "AICSA Partners",
+			"link": "https://aicsa.com.au/aicsa-partners/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://aicsa.com.au/aicsa-partners/&usg=AOvVaw2JHrFrlmuK49pfMVeaG9ew",
+			"displayed_link": "https://aicsa.com.au › aicsa-partners",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2d429734b29b90801af3429705c355141.png",
+			"snippet": "Realtime Conveyancer is breakthrough transaction management software. It is the first end-to-end conveyancing platform in Australia, featuring seamless ...",
+			"snippet_highlighted_words": [
+				"Conveyancer",
+				"software",
+				"conveyancing"
+			],
+			"source": "aicsa.com.au"
+		},
+		{
+			"position": 11,
+			"title": "CONVEYANCING MANAGER",
+			"link": "https://dyedurham.com.au/solution/conveyancing-manager/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://dyedurham.com.au/solution/conveyancing-manager/&usg=AOvVaw0747-_N2B4YRN-AefJYyEZ",
+			"displayed_link": "https://dyedurham.com.au › solution › conveyancing-ma...",
+			"snippet": "A UNIQUE, DIARY-BASED WORKFLOW SOLUTION. Conveyancing Manager, helps users build efficiencies and scalability into their conveyancing and legal practitioner ...",
+			"snippet_highlighted_words": [
+				"Conveyancing",
+				"conveyancing"
+			],
+			"source": "Dye & Durham Australia"
+		},
+		{
+			"position": 12,
+			"title": "What to look for when choosing a practice management ...",
+			"link": "https://www.aicvic.com.au/what-to-look-for-when-choosing-a-practice-management-system/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.aicvic.com.au/what-to-look-for-when-choosing-a-practice-management-system/&usg=AOvVaw3gnEBmMaa5h0Y4GF-cfiPu",
+			"displayed_link": "https://www.aicvic.com.au › Blog",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d264d8503a83c3ec21490f3ad1c8e77378.png",
+			"snippet": "... software systems is integration. ... We aim to advance the interests of all conveyancers in Victoria and build public confidence in the State's conveyancing ...",
+			"snippet_highlighted_words": [
+				"software",
+				"conveyancers",
+				"conveyancing"
+			],
+			"source": "Australian Institute of Conveyancers Victorian Division"
+		},
+		{
+			"position": 13,
+			"title": "Selecting the right conveyancing systems and technologies",
+			"link": "https://www.trisearch.com.au/start-2023-by-selecting-the-right-conveyancing-systems-and-technologies/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.trisearch.com.au/start-2023-by-selecting-the-right-conveyancing-systems-and-technologies/&usg=AOvVaw3Wph-odIer7YFGJCT5p2rB",
+			"displayed_link": "https://www.trisearch.com.au › start-2023-by-selecting-t...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2bf3812e3aa752f42a829f8782a94ae07.png",
+			"date": "12 Dec 2022",
+			"snippet": "The software gives conveyancers the ability to manage case and client records, important files, schedules and appointments, deadlines, billing ...",
+			"snippet_highlighted_words": [
+				"software",
+				"conveyancers"
+			],
+			"source": "triSearch"
+		},
+		{
+			"position": 14,
+			"title": "Matter Centre | Conveyancing Software",
+			"link": "https://www.globalx.co/software/matter-centre",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.globalx.co/software/matter-centre&usg=AOvVaw1ZhZpXIBz1-5sv9XmCL579",
+			"displayed_link": "https://www.globalx.co › software › matter-centre",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d26629ee0e8a5ab193bd212e93249a3fb3.png",
+			"snippet": "Matter Centre is more than just conveyancing software. It's the combined expertise and knowledge of GlobalX's 30 years+ experience of serving the legal ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "GlobalX UK"
+		},
+		{
+			"position": 15,
+			"title": "Matter Centre I Dye & Durham",
+			"link": "https://globalx.com.au/software/matter-centre/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://globalx.com.au/software/matter-centre/&usg=AOvVaw0gsopWfAStxPmz7qGkXa6C",
+			"displayed_link": "https://globalx.com.au › software › matter-centre",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d216f73d10e16f8e11fe9771cbdc06a18c.png",
+			"snippet": "Thousands of property lawyers and conveyancers each day trust Matter Centre as their conveyancing workflow solution. ... This conveyancing software delivers ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "globalx.com.au"
+		},
+		{
+			"position": 16,
+			"title": "LEAP Legal Software: Legal Practice Management Software",
+			"link": "https://www.leap.com.au/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.leap.com.au/&usg=AOvVaw34UyHrTPCIjrHGJwjMY1Cs",
+			"displayed_link": "https://www.leap.com.au",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2701c9e6927e3338060b51a7618a40954.png",
+			"snippet": "LEAP is the leading cloud-based Legal Practice Management Software for law firms and conveyancers in Australia. Everything you need to run a law firm.",
+			"snippet_highlighted_words": [
+				"Software",
+				"conveyancers"
+			],
+			"source": "LEAP Legal Software"
+		},
+		{
+			"position": 17,
+			"title": "Conveyancing Software | LEAP Legal Software",
+			"link": "https://www.leapsoftware.ie/area-of-law/conveyancing-software/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.leapsoftware.ie/area-of-law/conveyancing-software/&usg=AOvVaw3mstd5dsxlDLDI0n0UAxOG",
+			"displayed_link": "https://www.leapsoftware.ie › area-of-law › conveyanci...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2bb6a5b7105b6ef25be62452158c326f3.png",
+			"snippet": "LEAP develops practice management software that provides everything you need to complete a conveyancing matter. With integrated, up-to-date and fully automated ...",
+			"snippet_highlighted_words": [
+				"software",
+				"conveyancing"
+			],
+			"source": "leapsoftware.ie"
+		},
+		{
+			"position": 18,
+			"title": "Productivity Boosting Features",
+			"link": "https://www.leapconveyancer.com.au/features/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.leapconveyancer.com.au/features/&usg=AOvVaw2o4gNb4eZ1g6PJBlV_e3oD",
+			"displayed_link": "https://www.leapconveyancer.com.au › features",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2016af28642edf8b1b5d88d4b02906f24.jpeg",
+			"snippet": "Practice Management Software for Conveyancers. The smartest conveyancing software that will manage your matters and automate tasks. Australia's most widely ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "LEAP Conveyancer"
+		},
+		{
+			"position": 19,
+			"title": "CATS",
+			"link": "https://dyedurham.com.au/solution/cats/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://dyedurham.com.au/solution/cats/&usg=AOvVaw0U9p4Vwq19gKsHGurxzAKh",
+			"displayed_link": "https://dyedurham.com.au › solution › cats",
+			"snippet": "CONVEYANCING & TRUST ACCOUNT SYSTEM FOR SOUTH AUSTRALIA. A complete Practice Management System written by conveyancers for conveyancers. CATS SOFTWARE EULA ...",
+			"snippet_highlighted_words": [
+				"CONVEYANCING",
+				"conveyancers",
+				"conveyancers",
+				"SOFTWARE"
+			],
+			"source": "Dye & Durham Australia"
+		},
+		{
+			"position": 20,
+			"title": "Conveyancing Software for Australia",
+			"link": "https://www.intouch.cloud/conveyancing-jurisdictions/australia",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.intouch.cloud/conveyancing-jurisdictions/australia&usg=AOvVaw0iTaRhr5rCkUXUs6Ythhix",
+			"displayed_link": "https://www.intouch.cloud › conveyancing-jurisdictions",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d28557f34d211bffc7253fea5e4b074eb7.png",
+			"snippet": "InTouch is a conveyancing software and case management solution designed to automate and streamline the administrative tasks involved in the conveyancing ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"rich_snippet": {
+				"top": {
+					"detected_extensions": {
+						"rating": 4.6,
+						"votes": 36
+					},
+					"extensions": [
+						"Rating: 4.6",
+						"‎36 votes"
+					]
+				}
+			},
+			"source": "InTouch Conveyancing Software"
+		},
+		{
+			"position": 21,
+			"title": "Victorian firm Kyleah Conveyancing uses Software to ...",
+			"link": "https://www.aicvic.com.au/victorian-firm-kyleah-conveyancing-uses-software-to-launch-completely-paperless/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.aicvic.com.au/victorian-firm-kyleah-conveyancing-uses-software-to-launch-completely-paperless/&usg=AOvVaw05ppM1MPTKJojlcFNcoYCE",
+			"displayed_link": "https://www.aicvic.com.au › Blog",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2d15a4d83ad8fcfd1c68f2548a2dfeb39.png",
+			"snippet": "A Paperless Business Solution. One strategy Lana uses to help build this reputation, is to provide a solution available to all homebuyers and sellers, no matter ...",
+			"source": "Australian Institute of Conveyancers Victorian Division"
+		},
+		{
+			"position": 22,
+			"title": "Conveyancing Case Management Software",
+			"link": "https://www.theaccessgroup.com/en-gb/legal/software/case-management/conveyancing/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.theaccessgroup.com/en-gb/legal/software/case-management/conveyancing/&usg=AOvVaw0Ben3Dd4LoZlkNY_snc0Rp",
+			"displayed_link": "https://www.theaccessgroup.com › en-gb › legal › conv...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2b934dc3357824b437f109379e1311acd.png",
+			"snippet": "Offering seamless integrations with over 100 third parties - including the Land Registry portal and search providers such as Index PI and TM Convey – our ...",
+			"rich_snippet": {
+				"top": {
+					"detected_extensions": {
+						"rating": 4.2,
+						"votes": 2417
+					},
+					"extensions": [
+						"Rating: 4.2",
+						"‎2,417 votes"
+					]
+				}
+			},
+			"source": "The Access Group"
+		},
+		{
+			"position": 23,
+			"title": "CATS Conveyancing Software",
+			"link": "https://www.facebook.com/CATSConveyancing/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.facebook.com/CATSConveyancing/&usg=AOvVaw2r0_Djl3iHMnLsMTPSzAmY",
+			"displayed_link": "110+ followers",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d243c3000e2a27418a0694410615e8f96b.png",
+			"snippet": "CATS Conveyancing Software, Adelaide, South Australia. 97 likes. CATS Conveyancing Software is a full functioned conveyancing software package designed...",
+			"snippet_highlighted_words": [
+				"Conveyancing Software",
+				"Conveyancing Software",
+				"conveyancing software"
+			],
+			"rich_snippet": {
+				"top": {
+					"detected_extensions": {
+						"rating": 5,
+						"vote": 1
+					},
+					"extensions": [
+						"Rating: 5",
+						"‎1 vote"
+					]
+				}
+			},
+			"source": "Facebook · CATS Conveyancing Software"
+		},
+		{
+			"position": 24,
+			"title": "Conveyancing Software",
+			"link": "https://www.clio.com/uk/practice-areas/conveyancing-software/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.clio.com/uk/practice-areas/conveyancing-software/&usg=AOvVaw115KMorYzk8WWml-fiLX8H",
+			"displayed_link": "https://www.clio.com › Clio › Practice Areas",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2f5f17ce62c39e1d6d9a8402f37627659.png",
+			"snippet": "Clio's conveyancing practice management software allows both traditional and online conveyancing solicitors to do more in less time. With Clio Grow, client ...",
+			"snippet_highlighted_words": [
+				"conveyancing",
+				"software",
+				"conveyancing solicitors"
+			],
+			"source": "Clio"
+		},
+		{
+			"position": 25,
+			"title": "Conveyancing Software For Property Conveyancing ...",
+			"link": "https://www.conveyancesoft.com.au/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.conveyancesoft.com.au/&usg=AOvVaw2BBUxoFgVjePqT7g9wM5KA",
+			"displayed_link": "https://www.conveyancesoft.com.au",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2b9c06b2d9157f30c4ecf734c0535ed43.png",
+			"snippet": "ConveyanceSoft makes it easy to track conveyancing sales and purchases, contract information, adjustments, dramatically increasing your staff productivity and ...",
+			"snippet_highlighted_words": [
+				"conveyancing"
+			],
+			"source": "conveyancesoft.com.au"
+		},
+		{
+			"position": 26,
+			"title": "Technology",
+			"link": "https://altconvey.com.au/areas-of-conveyancing/technology/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://altconvey.com.au/areas-of-conveyancing/technology/&usg=AOvVaw2vuwDqI3aFo6pz-9ySBF0q",
+			"displayed_link": "https://altconvey.com.au › areas-of-conveyancing › tec...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2a9311404fc2351d63a47952e492e6f5e.png",
+			"snippet": "Technology. Specialised conveyancing software. Draft sale contracts have a fast turn around time, generally issued on the same day we receive instructions ( ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "Alternative Conveyancing"
+		},
+		{
+			"position": 27,
+			"title": "Conveyancing Software: What you need to know",
+			"link": "https://www.hoowla.com/conveyancing-software-what-you-need-to-know/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.hoowla.com/conveyancing-software-what-you-need-to-know/&usg=AOvVaw1rmeWg5NN6hrdkAT2FiLZ6",
+			"displayed_link": "https://www.hoowla.com › conveyancing-software-what-...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d226d4349f7bc28fe527e43c5e1b11cd1a.png",
+			"snippet": "Client Intake and Remote Meetings: Conveyancing software is vital in helping law firms effectively manage and prioritise client communications. Specialised ...",
+			"snippet_highlighted_words": [
+				"Conveyancing software"
+			],
+			"source": "Hoowla"
+		},
+		{
+			"position": 28,
+			"title": "Best Conveyancing Business Law Software",
+			"link": "https://www.smokeball.com.au/practice-area/conveyancing-business-law-software",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.smokeball.com.au/practice-area/conveyancing-business-law-software&usg=AOvVaw02R_6Ah-A7ycXBiLjL2a5c",
+			"displayed_link": "https://www.smokeball.com.au › practice-area › convey...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2576f043abfa2372f697b22d671802941.png",
+			"snippet": "Smokeball software ensures your firm's most-used documents and forms are automated to prepopulate in seconds. Our legal document automation, powered by the best ...",
+			"snippet_highlighted_words": [
+				"software"
+			],
+			"source": "Smokeball Australia"
+		},
+		{
+			"position": 29,
+			"title": "Settle Easy partners with MRI Software",
+			"link": "https://settleeasy.com.au/settle-easy-announces-partnership-with-mri-software-to-drive-australias-fastest-growing-online-conveyancing-business/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://settleeasy.com.au/settle-easy-announces-partnership-with-mri-software-to-drive-australias-fastest-growing-online-conveyancing-business/&usg=AOvVaw2hBPQ0ixZzDwdT59rohGVT",
+			"displayed_link": "https://settleeasy.com.au › settle-easy-announces-partners...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d26b1cdba4bf83285cc92a751470a67c28.png",
+			"date": "12 Apr 2023",
+			"snippet": "Settle Easy will integrate with MRI Box and Dice, a leading real estate Customer Relationship Management (CRM) solution. More than 1,000 offices ...",
+			"source": "Settle Easy"
+		},
+		{
+			"position": 30,
+			"title": "PEXA: Online Property Settlement & Actionable Insights",
+			"link": "https://www.pexa.com.au/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.pexa.com.au/&usg=AOvVaw2T6tviMWfVEhQqz6BSIoZx",
+			"displayed_link": "https://www.pexa.com.au",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d25e42f20ffe0af04496f503a9852dafda.png",
+			"snippet": "Practice Management Software Providers · Buyers & Sellers · Support · Help Centre ... Carol Taylor, Taylor Law & Conveyancing (QLD). “I use PEXA to benefit our ...",
+			"snippet_highlighted_words": [
+				"Software",
+				"Conveyancing"
+			],
+			"source": "PEXA"
+		},
+		{
+			"position": 31,
+			"title": "legal practice software | Law Support",
+			"link": "https://www.lawsupport.com.au/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.lawsupport.com.au/&usg=AOvVaw0dZam_aeJdZvUPyAKyntu6",
+			"displayed_link": "https://www.lawsupport.com.au",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d24252f5dc65ae844f5f24f11cc0f97950.png",
+			"snippet": "... questions sheets. Family law Software. Conveyancing software. Conveyance area & settlement. Water calc & settlements area. Criminal law software. Succession law ...",
+			"snippet_highlighted_words": [
+				"Conveyancing software"
+			],
+			"source": "lawsupport.com.au"
+		},
+		{
+			"position": 32,
+			"title": "Conveyancing Client & Case Management Software",
+			"link": "https://ospreyapproach.com/practice-areas/conveyancing-legal-software/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://ospreyapproach.com/practice-areas/conveyancing-legal-software/&usg=AOvVaw0kNC6DoXaJjPsGYYnPEo2X",
+			"displayed_link": "https://ospreyapproach.com › Practice Areas",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2d212eff2d05f25a21d3e4b34abd2ba14.png",
+			"snippet": "Our conveyancing case management software system is designed to automate manual processes, reduce compliance errors, and help UK law firms deliver ...",
+			"snippet_highlighted_words": [
+				"conveyancing",
+				"software"
+			],
+			"source": "Osprey Approach"
+		},
+		{
+			"position": 33,
+			"title": "Real Estate Conveyancing Software Trusted by Lawyers",
+			"link": "https://www.lawyerconveyance.ca/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.lawyerconveyance.ca/&usg=AOvVaw1Bnu0IQBJFQh3KCUgwYBtJ",
+			"displayed_link": "https://www.lawyerconveyance.ca",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2bed5c94c19ef838dcff2438571e205f6.png",
+			"snippet": "A trusted and efficient conveyancing software system for lawyers in Ontario. Built by Lawyers - Perfected by Law Clerks.",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "Lawyer Conveyance System"
+		},
+		{
+			"position": 34,
+			"title": "Resolve™ | Simple Residential Conveyancing",
+			"link": "https://www.resolveconveyancing.com/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.resolveconveyancing.com/&usg=AOvVaw2c_aX7SO3gao8RP6d7RF6I",
+			"displayed_link": "https://www.resolveconveyancing.com",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d27b70acb47201fd3b13ffbf40a413d3b0.png",
+			"snippet": "Say goodbye to the hassles of residential conveyancing with Resolve™. Our easy-to-use software allows you to generate documents in minutes, so that you can ...",
+			"snippet_highlighted_words": [
+				"conveyancing",
+				"software"
+			],
+			"source": "resolveconveyancing.com"
+		},
+		{
+			"position": 35,
+			"title": "Home | Australian Institute of Conveyancers National",
+			"link": "https://aicnational.com.au/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://aicnational.com.au/&usg=AOvVaw1IXdJjSs2-CESkJz34Znbi",
+			"displayed_link": "https://aicnational.com.au",
+			"snippet": "The AIC actively advocates to advance the interests of the Conveyancing ... Software Providers, other property related professionals and government bodies, and ...",
+			"snippet_highlighted_words": [
+				"Conveyancing",
+				"Software"
+			],
+			"source": "Australian Institute of Conveyancers National"
+		},
+		{
+			"position": 36,
+			"title": "Award-winning legal & conveyancing software & solutions ...",
+			"link": "https://www.infotrack.co.uk/solutions/conveyancing/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.infotrack.co.uk/solutions/conveyancing/&usg=AOvVaw0YOZYvMAENGJRTFprE0TO_",
+			"displayed_link": "https://www.infotrack.co.uk › solutions › conveyancing",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2d827cc39d0658e2d38aec2da2f3d7bd2.png",
+			"snippet": "InfoTrack empowers law firms to complete their conveyancing process digitally, end-to-end. Our award-winning legal technology is helping the industry to step ...",
+			"snippet_highlighted_words": [
+				"conveyancing"
+			],
+			"source": "InfoTrack UK"
+		},
+		{
+			"position": 37,
+			"title": "Easy Convey: The Ultimate in Conveyancing Software",
+			"link": "http://www.easyconvey.com/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=http://www.easyconvey.com/&usg=AOvVaw0UVwvER5hQl8cBiIdQfIuW",
+			"displayed_link": "http://www.easyconvey.com",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2af784cc5a8a44dbb8f9e495960255c64.png",
+			"snippet": "Conveyancing is filled with complex and time-consuming tasks. easy convey is the only property software solely designed specifically to streamline and ...",
+			"snippet_highlighted_words": [
+				"Conveyancing",
+				"software"
+			],
+			"source": "Easy Convey"
+		},
+		{
+			"position": 38,
+			"title": "ELM Conveyancing Software",
+			"link": "https://arunkasico.com/conveyancing-software-elm/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://arunkasico.com/conveyancing-software-elm/&usg=AOvVaw1PuCMjmqfxFdlFXZo_0lgE",
+			"displayed_link": "https://arunkasico.com › conveyancing-software-elm",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d284b53d1be7747bd16dc3cfd922cc7a65.png",
+			"snippet": "ELM Conveyancing Software - Malaysia.",
+			"snippet_highlighted_words": [
+				"Conveyancing Software"
+			],
+			"source": "Arun Kasi & Co"
+		},
+		{
+			"position": 39,
+			"title": "Conveyancing Software - Lexis® Convey",
+			"link": "https://www.lexisnexis.co.za/lexisconvey",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.lexisnexis.co.za/lexisconvey&usg=AOvVaw3I0sTCHGCF9jEctpw5cJHI",
+			"displayed_link": "https://www.lexisnexis.co.za › lexisconvey",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d29293609c71d784516a6b81b77d7d87aa.png",
+			"snippet": "Used not only to produce attorney documents for the property transfer process, Lexis Convey also enables users to create and manage conveyancing matters, ...",
+			"snippet_highlighted_words": [
+				"conveyancing"
+			],
+			"source": "LexisNexis South Africa"
+		},
+		{
+			"position": 40,
+			"title": "conveyIT | Cloud Conveyancing Software",
+			"link": "https://conveyit.co.nz/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://conveyit.co.nz/&usg=AOvVaw13-U2oMFAi8qcUDUPzdIKP",
+			"displayed_link": "https://conveyit.co.nz",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d21f491c7d2ff2f5c0e0f8475f4e9a125b.png",
+			"snippet": "It's the cloud based conveyancing software that's got everyone talking. Conveyit Maestro is an automated cloud conveyancing system designed by New Zealand ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "conveyIT"
+		},
+		{
+			"position": 41,
+			"title": "How to Choose a Conveyancing Case Management System ...",
+			"link": "https://askveya.com/resources/conveyancing-case-management-system/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://askveya.com/resources/conveyancing-case-management-system/&usg=AOvVaw1l7vJRSk1RR1xGwxdb9s3d",
+			"displayed_link": "https://askveya.com › Resources",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2d9c5286d4042b895adcfca29476fd7c5.jpeg",
+			"snippet": "With the changing pace of technology, it has become essential for lawyers to stay abreast and adopt legal software solutions. Thanks to the advent of the legal ...",
+			"snippet_highlighted_words": [
+				"software"
+			],
+			"source": "askveya.com"
+		},
+		{
+			"position": 42,
+			"title": "Conveyancing Software UK - DocFlite Powered by QuoteOnSite",
+			"link": "https://docflite.com/conveyancing-software-uk",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://docflite.com/conveyancing-software-uk&usg=AOvVaw2Ey1Jy7YYSZ1mA9E2aee68",
+			"displayed_link": "https://docflite.com › Blog",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d21149e289b2370090e27664dbc2675c65.png",
+			"date": "5 Oct 2023",
+			"snippet": "Conveyancing Software UK - a swift guide on improving property transactions.",
+			"snippet_highlighted_words": [
+				"Conveyancing Software"
+			],
+			"source": "docflite.com"
+		},
+		{
+			"position": 43,
+			"title": "Blog Post | Conveyancing Software for Real-estate Lawyers",
+			"link": "https://www.lumosemarketplace.com/blog-post/conveyancing-software-for-real-estate-lawyers",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.lumosemarketplace.com/blog-post/conveyancing-software-for-real-estate-lawyers&usg=AOvVaw05t_jaMj2phSeNpqmxOJB3",
+			"displayed_link": "https://www.lumosemarketplace.com › blog-post › con...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2ec510c659bed33b681052c1541d8e7d8.png",
+			"date": "4 Feb 2023",
+			"snippet": "RealtiWeb also comes equipped with word processing ability that allows lawyers to create and modify their own documents and precedents that fit ...",
+			"source": "Lumose Marketplace"
+		},
+		{
+			"position": 44,
+			"title": "Property Conveyancing Service Management Software For ...",
+			"link": "https://www.octopuspro.com/field-service-management/property-conveyancing-business-software/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.octopuspro.com/field-service-management/property-conveyancing-business-software/&usg=AOvVaw1yYC4tdmi6kKT2EzlciWlJ",
+			"displayed_link": "https://www.octopuspro.com › field-service-management",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d275363c5add49aecec1f6d405725a0af0.png",
+			"snippet": "Conveyancing Practice Management Software - Simple, Easy-to-use Software for your Conveyancing Business. Accept bookings on the go and manage your real ...",
+			"snippet_highlighted_words": [
+				"Conveyancing",
+				"Software",
+				"Software",
+				"Conveyancing"
+			],
+			"source": "OctopusPro"
+		},
+		{
+			"position": 45,
+			"title": "Konekta - Home",
+			"link": "https://www.konekta.com.au/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.konekta.com.au/&usg=AOvVaw1ivo88jGk0aFGbFBggHzOk",
+			"displayed_link": "https://www.konekta.com.au",
+			"snippet": "Konekta is a middleware platform that connects third party legal software. ... The Conveyancing Add-on for Actionstep, which is used by over 150 firms is a ...",
+			"snippet_highlighted_words": [
+				"software",
+				"Conveyancing"
+			],
+			"source": "konekta.com.au"
+		},
+		{
+			"position": 46,
+			"title": "QUINTALINK - Conveyancing Software for Real Estate Lawyers",
+			"link": "https://quintalink.ca/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://quintalink.ca/&usg=AOvVaw1mvw9Rzbj6TcqMmay1EYKa",
+			"displayed_link": "https://quintalink.ca",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d26db87ac2c1d1554edaffc4a84dca8d44.png",
+			"snippet": "Client and files database is owned by you and is retrievable upon request. Illustration. Custom-Tailored Approach. QUINTALINK was born as the result of the ...",
+			"source": "QUINTALINK"
+		},
+		{
+			"position": 47,
+			"title": "Conveyancing Software",
+			"link": "https://www.insightlegal.co.uk/solicitors-software/enterprise/workflow/conveyancing/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.insightlegal.co.uk/solicitors-software/enterprise/workflow/conveyancing/&usg=AOvVaw3jI8os2O-fKdk6c1N4r_V-",
+			"displayed_link": "https://www.insightlegal.co.uk › ... › Workflow",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2060dde9047b719b52b00f1d10d4c0c24.png",
+			"snippet": "Insight Legal is an award-winning software solution, supported by a dedicated team of people on hand to work alongside you to plan a bespoke transition ...",
+			"snippet_highlighted_words": [
+				"software"
+			],
+			"source": "Insight Legal Software"
+		},
+		{
+			"position": 48,
+			"title": "SettsPlus",
+			"link": "http://settsplus.com.au/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=http://settsplus.com.au/&usg=AOvVaw1sHO06-mgE_Qd6DJ3hUF_t",
+			"displayed_link": "http://settsplus.com.au",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2df6a3ec7fc31868869fe93380caba874.png",
+			"snippet": "SettsPlus is the industry standard Settlement software package for Conveyancers in Western Australia. SettsPlus is a tool for Conveyancers and Solicitors to ...",
+			"snippet_highlighted_words": [
+				"software",
+				"Conveyancers",
+				"Conveyancers",
+				"Solicitors"
+			],
+			"source": "SettsPlus"
+		},
+		{
+			"position": 49,
+			"title": "Real Estate Conveyancing Software",
+			"link": "https://www.ldd.ca/real-estate",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.ldd.ca/real-estate&usg=AOvVaw3PgVl-hyW5FcCuG7EvsbSm",
+			"displayed_link": "https://www.ldd.ca › real-estate",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2b96215a13475afcb4d96f5c47ea6abc4.png",
+			"snippet": "The best alternative for real estate conveyancing. For legal professionals across Canada. Handle your conveyancing files with RealtiWeb in Ontario, Alberta, ...",
+			"snippet_highlighted_words": [
+				"conveyancing",
+				"conveyancing"
+			],
+			"source": "LawyerDoneDeal"
+		},
+		{
+			"position": 50,
+			"title": "Martin Siddle's Post",
+			"link": "https://www.linkedin.com/posts/martin-siddle-8a7bb09_another-great-win-for-intouch-conveyancing-activity-7158859713856552960-yCC0",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.linkedin.com/posts/martin-siddle-8a7bb09_another-great-win-for-intouch-conveyancing-activity-7158859713856552960-yCC0&usg=AOvVaw1F5PrehPR9e8rGaBASq8YS",
+			"displayed_link": "3 reactions · 4 months ago",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2e1d203193b88c04cbf971e5f5709e86e.png",
+			"snippet": "... Conveyancing Software and I think this means they break into another new territory. The InTouch Conveyancing Software solution…",
+			"snippet_highlighted_words": [
+				"Conveyancing Software",
+				"Conveyancing Software"
+			],
+			"source": "LinkedIn · Martin Siddle"
+		},
+		{
+			"position": 51,
+			"title": "Why Conveyancing Lawyers Need Case Management ...",
+			"link": "https://todaysconveyancer.co.uk/conveyancing-lawyers-need-case-management-software/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://todaysconveyancer.co.uk/conveyancing-lawyers-need-case-management-software/&usg=AOvVaw10GAnu7gnGeanyb4Sgfx5P",
+			"displayed_link": "https://todaysconveyancer.co.uk › conveyancing-lawye...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d21c64d4fd2e6b4817843564f16ed39692.png",
+			"date": "25 July 2023",
+			"snippet": "Case Management Software is necessary for Conveyancers to manage their workflow, simplify their processes, and still provide their clients with ...",
+			"snippet_highlighted_words": [
+				"Software",
+				"Conveyancers"
+			],
+			"source": "Today's Conveyancer"
+		},
+		{
+			"position": 52,
+			"title": "Conveyancing Software - Denovo - Legal Case Management ...",
+			"link": "https://www.denovobi.com/practice-areas/conveyancing-software/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.denovobi.com/practice-areas/conveyancing-software/&usg=AOvVaw2yISeLTnGjUmHx5vM6Hit2",
+			"displayed_link": "https://www.denovobi.com › practice-areas › conveyan...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d240f79ee1500adbb218c905572adc5ca4.jpeg",
+			"snippet": "Denovo makes running your law firm easier. We're that smart, fully customisable, whole practice management legal software platform that you've been hearing ...",
+			"snippet_highlighted_words": [
+				"software"
+			],
+			"source": "denovobi.com"
+		},
+		{
+			"position": 53,
+			"title": "InTouch Conveyancing Software",
+			"link": "https://www.facebook.com/intouchmatters/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.facebook.com/intouchmatters/&usg=AOvVaw3tEWqguVhx_pcKPgMN2wjP",
+			"displayed_link": "50+ followers",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2b50ca116d870a3ff0c5d75de25226971.png",
+			"snippet": "InTouch Conveyancing Software, Nottingham, United Kingdom. 48 likes. Automate your processes with InTouch conveyancing software. A cost effective...",
+			"snippet_highlighted_words": [
+				"Conveyancing Software",
+				"conveyancing software"
+			],
+			"source": "Facebook · InTouch Conveyancing Software"
+		},
+		{
+			"position": 54,
+			"title": "Cloud Conveyancing Software",
+			"link": "https://conveyit.co.nz/home/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://conveyit.co.nz/home/&usg=AOvVaw3dyXJ0OsNq3WNnHz1ANIMx",
+			"displayed_link": "https://conveyit.co.nz › ...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d29223782c513b8735d44b90755794e63a.png",
+			"snippet": "It's the cloud based conveyancing software that's got everyone talking. Conveyit is an automated cloud conveyancing system designed by New Zealand Lawyers ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "conveyIT"
+		},
+		{
+			"position": 55,
+			"title": "Konveyansee | Cloud Conveyancing Software for Malaysia ...",
+			"link": "https://myconveyancingsoftware.com/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://myconveyancingsoftware.com/&usg=AOvVaw1NSBEPaj3uCoxy4nGSNpMN",
+			"displayed_link": "https://myconveyancingsoftware.com",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2425061cf41b5b5819bcd799cca9d41bc.png",
+			"snippet": "Konveyansee is the cloud conveyancing software for Malaysia conveyancing lawyers. Document generation, invoicing and document management built for lawyers.",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "Conveyancing Software Malaysia"
+		},
+		{
+			"position": 56,
+			"title": "List of Best InTouch Conveyancing Software Alternatives & ...",
+			"link": "https://www.trustradius.com/products/intouch-conveyancing-software/competitors",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.trustradius.com/products/intouch-conveyancing-software/competitors&usg=AOvVaw3BPI1xmdLs_SAZinYo2biA",
+			"displayed_link": "https://www.trustradius.com › products › competitors",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d237d141a8b6f6064125820afe4e267974.png",
+			"snippet": "Learn about the best InTouch Conveyancing Software alternatives for your Legal Case Management software needs. Read user reviews of eIMMIGRATION by Cerenade ...",
+			"snippet_highlighted_words": [
+				"Conveyancing Software"
+			],
+			"source": "TrustRadius"
+		},
+		{
+			"position": 57,
+			"title": "Redbrick Solutions - Conveyancing Case Management",
+			"link": "https://redbricksolutions.co.uk/what-we-do/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://redbricksolutions.co.uk/what-we-do/&usg=AOvVaw2NtNtQZJiD807nAtnNKjsC",
+			"displayed_link": "https://redbricksolutions.co.uk › what-we-do",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d286d10e8fd3803c2a6b6bb2fcd385a0d0.png",
+			"snippet": "The complete conveyancing case management software provider. Redbrick is the innovative software of choice for over 3000 legal professionals.",
+			"snippet_highlighted_words": [
+				"conveyancing",
+				"software",
+				"software"
+			],
+			"source": "Redbrick Solutions"
+		},
+		{
+			"position": 58,
+			"title": "Conveyancing Software | SpineLegal",
+			"link": "https://spinelegal.co.uk/conveyancing-software/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://spinelegal.co.uk/conveyancing-software/&usg=AOvVaw2QWT3QXDvvNR4uZPEGu4Yx",
+			"displayed_link": "https://spinelegal.co.uk › conveyancing-software",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d29afc2a5730e2338e0f0b11827ad70c8c.png",
+			"snippet": "Conveyancing software is a legal automation software designed to simplify and streamline the process of transferring property ownership from one party to ...",
+			"snippet_highlighted_words": [
+				"Conveyancing software"
+			],
+			"source": "Spine Legal Software"
+		},
+		{
+			"position": 59,
+			"title": "ALB Conveyancing Software for Law Firms",
+			"link": "https://www.oneadvanced.com/solutions/alb-conveyancing/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.oneadvanced.com/solutions/alb-conveyancing/&usg=AOvVaw23YDnLPhDDio5vcrU7z6XG",
+			"displayed_link": "https://www.oneadvanced.com › Cloud Software",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d203a11cbc0968b82ba3e6f9c5a23bc6b0.png",
+			"date": "3 Dec 2019",
+			"snippet": "ALB allows you to build your processes in an automated way. It mandates steps, captures data and ensures your firm's processes are strictly ...",
+			"source": "OneAdvanced"
+		},
+		{
+			"position": 60,
+			"title": "About us",
+			"link": "https://www.clickconveyancing.com.au/about/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.clickconveyancing.com.au/about/&usg=AOvVaw2JXQfjqdxrkWwmyIyOmjoz",
+			"displayed_link": "https://www.clickconveyancing.com.au › about",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d20b187d486eb889bc83a27a06ad60e38a.png",
+			"snippet": "By combining the skills, knowledge and experience of our staff and using the latest technology and conveyancing software ... conveyancing solicitors and ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "Click Conveyancing"
+		},
+		{
+			"position": 61,
+			"title": "Conveyancing Software for UK Law Firms - Quill",
+			"link": "https://www.quill.co.uk/legal-software/conveyancing-software-for-uk-law-firms/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.quill.co.uk/legal-software/conveyancing-software-for-uk-law-firms/&usg=AOvVaw19VRB1D7fr8ch3ftrJkFT0",
+			"displayed_link": "https://www.quill.co.uk › legal-software › conveyancin...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2b39c68e1fae27d5304564494626c0ffa.png",
+			"snippet": "Why choose Quill for your conveyancing practice? From opening new conveyancing matters and sending out client care letters to filling in completion statements ...",
+			"snippet_highlighted_words": [
+				"conveyancing",
+				"conveyancing"
+			],
+			"source": "quill.co.uk"
+		},
+		{
+			"position": 62,
+			"title": "Embracing Conveyancing Software in 2024",
+			"link": "https://www.twentyconvey.co.uk/embracing-conveyancing-software-in-2024",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.twentyconvey.co.uk/embracing-conveyancing-software-in-2024&usg=AOvVaw3Z4LAA-mPj7pj2a6qAPWC2",
+			"displayed_link": "https://www.twentyconvey.co.uk › embracing-conveyan...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d29b103a6b14a46ea5ccb0ade2b9997087.jpeg",
+			"snippet": "What are the biggest problems facing conveyancers? Why are conveyancers reluctant to embrace technology; Types of conveyancing software available; The benefits ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "TwentyConvey"
+		},
+		{
+			"position": 63,
+			"title": "Our Partners",
+			"link": "https://aicnational.com.au/index.php/our-partners/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://aicnational.com.au/index.php/our-partners/&usg=AOvVaw2TIzIta4rYQW_XW0G_ANsW",
+			"displayed_link": "https://aicnational.com.au › index.php › our-partners",
+			"snippet": "Smokeball is simple, smart and affordable cloud conveyancing software. From matter management, automated forms and precedents, settlement financials through ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "Australian Institute of Conveyancers National"
+		},
+		{
+			"position": 64,
+			"title": "Conveyancing Software",
+			"link": "https://www.nationalsolicitors.com/conveyancing-software/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.nationalsolicitors.com/conveyancing-software/&usg=AOvVaw2x3RuSU2r2VH9GE6_3c78L",
+			"displayed_link": "https://www.nationalsolicitors.com › conveyancing-softw...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2d0f2b00f910a5aea0bd508049235b8fb.png",
+			"snippet": "Our Conveyancing Software system can be used solely as a Conveyancing Quotes Calculator or it can be used to update clients, and Introducers, or it can provide ...",
+			"snippet_highlighted_words": [
+				"Conveyancing Software"
+			],
+			"source": "National Solicitors"
+		},
+		{
+			"position": 65,
+			"title": "Real Estate Law Conveyancing Software - PageLightPrime",
+			"link": "https://www.pagelightprime.com/practice-area/real-estate-law-software",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.pagelightprime.com/practice-area/real-estate-law-software&usg=AOvVaw0WA09rIjnwg5gIsWtmJB0M",
+			"displayed_link": "https://www.pagelightprime.com › practice-area › real-e...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d25685501ae8c40ed32fa1c06bda20e15d.png",
+			"snippet": "PageLightPrime helps law firms to close residential or commercial deals. Assemble bank documents, disclosures and settlement statement of account guided by ...",
+			"source": "pagelightprime.com"
+		},
+		{
+			"position": 66,
+			"title": "Closer by LawLabs",
+			"link": "https://www.lawlabs.ca/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.lawlabs.ca/&usg=AOvVaw3M8PQ9yTYQidbI-OWM9JMP",
+			"displayed_link": "https://www.lawlabs.ca",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2f47247595bebbf2b6726c535f84d1114.png",
+			"snippet": "Closer is a new kind of conveyancing software, making conveyancing simple, intuitive, and human. Edit your documents in real time, customize your own ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "Closer by LawLabs"
+		},
+		{
+			"position": 67,
+			"title": "Conveyancing and Property Case Management Software",
+			"link": "https://www.lexisnexis-es.co.uk/sectors/conveyancing-and-property-software/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.lexisnexis-es.co.uk/sectors/conveyancing-and-property-software/&usg=AOvVaw3lIohWquScqzb6hfGLWoRI",
+			"displayed_link": "https://www.lexisnexis-es.co.uk › Sectors",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2393ade278177799815fbaf5ebf953983.png",
+			"snippet": "Easy to use conveyancing case management software for law firms. Everything you need to complete a conveyancing transaction.",
+			"snippet_highlighted_words": [
+				"conveyancing",
+				"software",
+				"conveyancing"
+			],
+			"source": "LexisNexis Enterprise Solutions"
+		},
+		{
+			"position": 68,
+			"title": "Conveyancing software - Veya",
+			"link": "https://askveya.com/conveyancing-software/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://askveya.com/conveyancing-software/&usg=AOvVaw2H8jop0kK1O8Va3fA5fmKy",
+			"displayed_link": "https://askveya.com › conveyancing-software",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d23868b522878101f7f786fb5b00b009e9.jpeg",
+			"snippet": "Title Register Analysis And Risk Score Software For Conveyancing Firms · Instantly identify red flags and reduce risk in property transactions · The software ...",
+			"snippet_highlighted_words": [
+				"Software",
+				"Conveyancing",
+				"software"
+			],
+			"source": "askveya.com"
+		},
+		{
+			"position": 69,
+			"title": "Terms of Use",
+			"link": "https://conveyancing.com.au/terms-use",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://conveyancing.com.au/terms-use&usg=AOvVaw0Tw7_XKCJDGtxbjQcNujkz",
+			"displayed_link": "https://conveyancing.com.au › terms-use",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d216cdf93a33864b409faf355482e08e64.png",
+			"snippet": "use any device, software or other instrumentality to interfere or attempt to interfere with the proper working of our websites and mobile apps, and that you ...",
+			"snippet_highlighted_words": [
+				"software"
+			],
+			"source": "Conveyancing.com.au"
+		},
+		{
+			"position": 70,
+			"title": "LCS - Lawyers Conveyancing Software",
+			"link": "https://dribbble.com/shots/22586499-LCS-Lawyers-Conveyancing-Software",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://dribbble.com/shots/22586499-LCS-Lawyers-Conveyancing-Software&usg=AOvVaw320L_1HAOE-s8HFVxXc3Je",
+			"displayed_link": "https://dribbble.com › shots › 22586499-LCS-Lawyers-...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d25532b294ebb4e6ebed67aa4525cf4cd3.png",
+			"date": "18 Sept 2023",
+			"snippet": "LCS - Lawyers Conveyancing Software designed by Syed Mahbub for Devflow. Connect with them on Dribbble; the global community for designers ...",
+			"snippet_highlighted_words": [
+				"Conveyancing Software"
+			],
+			"source": "Dribbble"
+		},
+		{
+			"position": 71,
+			"title": "Making conveyancing simple for clients and agents alike",
+			"link": "https://www.lawlab.com.au/partners/case-studies/tucker-real-estate",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.lawlab.com.au/partners/case-studies/tucker-real-estate&usg=AOvVaw2R6G9AIHj7mCcCwQtm9v1G",
+			"displayed_link": "https://www.lawlab.com.au › partners › tucker-real-estate",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d291f9789057f5f87491e0193ee6eefd48.png",
+			"snippet": "“Lawlab keeps everyone informed. Through innovative software we can see the progress of each of our sales in real time and so can our clients.” Andrea explained ...",
+			"snippet_highlighted_words": [
+				"software"
+			],
+			"source": "Lawlab"
+		},
+		{
+			"position": 72,
+			"title": "LEAP Legal Software UK's Post",
+			"link": "https://www.linkedin.com/posts/leap-legal-software-uk_natconveywk2024-conveyancing-conveyancer-activity-7173282652542734336-RBtE",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.linkedin.com/posts/leap-legal-software-uk_natconveywk2024-conveyancing-conveyancer-activity-7173282652542734336-RBtE&usg=AOvVaw39FH1uLytqRhKMw71mHp2y",
+			"displayed_link": "10+ reactions · 3 months ago",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2b5e57529eee650d7f41e0636bfc0d395.png",
+			"snippet": "In the spirit of National Conveyancing Week, LEAP provides everything you need from your conveyancing software. With specific features to ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "LinkedIn · LEAP Legal Software UK"
+		},
+		{
+			"position": 73,
+			"title": "Best Legal Practice Management Software",
+			"link": "https://www.softwareadvice.com.au/directory/3006/law-practice-management/software",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.softwareadvice.com.au/directory/3006/law-practice-management/software&usg=AOvVaw04pAoNTbWvCy1p6WJzNYkI",
+			"displayed_link": "https://www.softwareadvice.com.au › directory › software",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2c9795fcfe82b058a0a64054e35163fdc.png",
+			"snippet": "Lexzur is a comprehensive Suite of Law Practice Management Software and contract Lifecycle Management Software available for Legal teams of any size in both ...",
+			"snippet_highlighted_words": [
+				"Software",
+				"Software"
+			],
+			"source": "softwareadvice.com.au"
+		},
+		{
+			"position": 74,
+			"title": "Automate your conveyancing practice! Find out why Australian ...",
+			"link": "https://www.facebook.com/Actionstep/videos/automate-your-conveyancing-practice-find-out-why-australian-conveyancing-lawyers/890492398010229/",
+			"displayed_link": "5 reactions · 4 years ago",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq9J-1eZowWyapDJ6dJVEEr02UWH4E25lu_Q8gaJKUGmNy&s",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d254f2f96c257566e6d407231b58e7fa4e.png",
+			"snippet": "Practice Management Software for Australian Conveyancing L... Oct 7, 2019 · 72 views. 00:45. 10 Takeaways from ALPMA SUMMIT 2019. Sep 11, 2019 ...",
+			"source": "Facebook · Actionstep"
+		},
+		{
+			"position": 75,
+			"title": "InTouch Conveyancing Software",
+			"link": "https://www.crunchbase.com/organization/intouch-conveyancing-software",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.crunchbase.com/organization/intouch-conveyancing-software&usg=AOvVaw1mOsvP3QgofcNvSbhpqLGr",
+			"displayed_link": "https://www.crunchbase.com › organization › intouch-c...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2ca2ba9af0e8bf1ac90f3003a0a3b51d8.png",
+			"snippet": "InTouch Conveyancing Software is a case management solution for property lawyers.",
+			"snippet_highlighted_words": [
+				"Conveyancing Software"
+			],
+			"source": "Crunchbase"
+		},
+		{
+			"position": 76,
+			"title": "Conveyancing",
+			"link": "https://www.silq.com.au/areas-of-law/conveyancing/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.silq.com.au/areas-of-law/conveyancing/&usg=AOvVaw3pNlLJJyuV_kFG26plAZTk",
+			"displayed_link": "https://www.silq.com.au › areas-of-law › conveyancing",
+			"snippet": "... matters neatly organised with SILQ Software. SILQ's browser based software saves and backups your data to a server right here in Sydney. More Areas of Law ...",
+			"snippet_highlighted_words": [
+				"Software",
+				"software"
+			],
+			"source": "SILQ"
+		},
+		{
+			"position": 77,
+			"title": "Advanced Diploma of Conveyancing - BSB60220",
+			"link": "https://www.rmit.edu.au/study-with-us/levels-of-study/vocational-study/advanced-diplomas/advanced-diploma-of-conveyancing-c6170",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.rmit.edu.au/study-with-us/levels-of-study/vocational-study/advanced-diplomas/advanced-diploma-of-conveyancing-c6170&usg=AOvVaw04AI9VJ4LiE9EinTAzsRYr",
+			"displayed_link": "https://www.rmit.edu.au › vocational-study › advanced-...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d289d117072ea0c11e380b2df60acc3d1e.png",
+			"snippet": "Industry-led education. Learn to use industry-standard software and apply your skills in assignments that include real-world conveyancing tasks and scenarios.",
+			"snippet_highlighted_words": [
+				"software",
+				"conveyancing"
+			],
+			"source": "RMIT"
+		},
+		{
+			"position": 78,
+			"title": "Integrated Business Tools - Intelliworks conveyancing ...",
+			"link": "https://www.ochresoft.com/integrated-business-tools/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.ochresoft.com/integrated-business-tools/&usg=AOvVaw22z04YCpL4KvUSs3EY3S9D",
+			"displayed_link": "https://www.ochresoft.com › integrated-business-tools",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d22e4a6f28dfd4548cf9592b36cf9584bc.png",
+			"snippet": "Ochresoft's Intelliworks desktop integration makes everyday case management tasks a breeze. It links with many of the main legal partner systems allowing ...",
+			"source": "Ochresoft"
+		},
+		{
+			"position": 79,
+			"title": "InTouch Conveyancing Software (@intouchmatters) / X",
+			"link": "https://twitter.com/intouchmatters?lang=en",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://twitter.com/intouchmatters?lang=en&usg=AOvVaw0-gmJIMDjkC3XxNSTD_EDI",
+			"displayed_link": "400+ followers",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d25132f80f9cbf5a24038f8347e76d5e29.png",
+			"snippet": "Improve automation, communication and transparency in property transactions. Cloud based case management solution.",
+			"source": "X · intouchmatters"
+		},
+		{
+			"position": 80,
+			"title": "Choosing a Conveyancing Firm",
+			"link": "https://mclconveyancing.com.au/choosing-a-conveyancing-firm/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://mclconveyancing.com.au/choosing-a-conveyancing-firm/&usg=AOvVaw2Mj5Is25fNQe3-uk1IKhuA",
+			"displayed_link": "https://mclconveyancing.com.au › choosing-a-conveya...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2641bd41145e891e8edf698133d07572c.png",
+			"snippet": "The choices are a professional law firm such as MCL Conveyancing or a 'conveyancing ... Many push the new cloud based conveyancing software as a simple easy ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "MCL Conveyancing"
+		},
+		{
+			"position": 81,
+			"title": "SaaS conveyancing software for innovative settlement agents",
+			"link": "https://www.instagram.com/realtimeconveyancer/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.instagram.com/realtimeconveyancer/&usg=AOvVaw0QE2qXslb-i0U1B9DHNnQU",
+			"displayed_link": "200+ followers",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d25dbc58b3d38566b6895ba6d3b701de3f.png",
+			"snippet": "200 Followers, 169 Following, 242 Posts - SaaS conveyancing software for innovative settlement agents (@realtimeconveyancer) on Instagram: \"The digital ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "Instagram · realtimeconveyancer"
+		},
+		{
+			"position": 82,
+			"title": "Conveyancing Software and Solutions for Your Law Firm",
+			"link": "https://www.perfectportal.co.uk/blog/conveyancing-software-and-solutions-for-your-law-firm",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.perfectportal.co.uk/blog/conveyancing-software-and-solutions-for-your-law-firm&usg=AOvVaw3RFMB0PkMpoTpgFCs-bj5X",
+			"displayed_link": "https://www.perfectportal.co.uk › blog › conveyancing-...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2bb8f146fbc1f9b86eb9d536662ae2a67.png",
+			"date": "8 Feb 2023",
+			"snippet": "Perfect Portal offers a complete series of day-one legal case management software integration, giving your firm a full-service, end-to-end case ...",
+			"snippet_highlighted_words": [
+				"software"
+			],
+			"source": "Perfect Portal"
+		},
+		{
+			"position": 83,
+			"title": "Prolegis, Real Estate Conveyancing Software That Works The ...",
+			"link": "https://www.prolegis.ca/prolegis-landing-page-o122/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.prolegis.ca/prolegis-landing-page-o122/&usg=AOvVaw0EGUYOn7i4EUoevApai1Hk",
+			"displayed_link": "https://www.prolegis.ca › prolegis-landing-page-o122",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2bc9bcd60aa856c4f57798a635151aa4e.jpeg",
+			"snippet": "Prolegis is the real estate conveyancing solution built for lawyers by lawyers.",
+			"snippet_highlighted_words": [
+				"conveyancing"
+			],
+			"source": "prolegis.ca"
+		},
+		{
+			"position": 84,
+			"title": "InTouch Conveyancing Software Pricing 2024",
+			"link": "https://www.trustradius.com/products/intouch-conveyancing-software/pricing",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.trustradius.com/products/intouch-conveyancing-software/pricing&usg=AOvVaw0f_D5P-emXJIxQBIMLqrFh",
+			"displayed_link": "https://www.trustradius.com › products › pricing",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d25461ea94bc6284f918d8fdfaa5710b43.png",
+			"snippet": "InTouch conveyancing software is an all-in-one case management solution for property lawyers, from initial quote to completion. The vendor states their mission ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "TrustRadius"
+		},
+		{
+			"position": 85,
+			"title": "Australian Institute of Conveyancers SA - Member Login - AICSA",
+			"link": "https://members.aicsa.com.au/eventdetails/13102/answering-your-cats-conveyancing-questions-intermediate-advanced-level",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://members.aicsa.com.au/eventdetails/13102/answering-your-cats-conveyancing-questions-intermediate-advanced-level&usg=AOvVaw0N3yveOLvFMAqJLUsGMxTE",
+			"displayed_link": "https://members.aicsa.com.au › eventdetails › answering-...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d283691ab0dc2734ae55cad2f5ed9e77d5.png",
+			"snippet": "CATS conveyancing software is widely-used across the conveyancing industry in South Australia. This session will provide an opportunity for current users to ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "aicsa.com.au"
+		},
+		{
+			"position": 86,
+			"title": "ONTARIO Real Estate Conveyancing Software for Mac",
+			"link": "https://www.reddit.com/r/LawCanada/comments/tml1nq/ontario_real_estate_conveyancing_software_for_mac/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.reddit.com/r/LawCanada/comments/tml1nq/ontario_real_estate_conveyancing_software_for_mac/&usg=AOvVaw3Vgo9UJtGI6nzn2i-W9DOa",
+			"displayed_link": "1 comment · 2 years ago",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2a0897f5b24397c60c2cfeed8525c5141.png",
+			"snippet": "ONTARIO Real Estate Conveyancing Software for Mac. Hey All,. I just wanted to ask if there are any real estate lawyers using a mac full-time? If ...",
+			"snippet_highlighted_words": [
+				"Conveyancing Software"
+			],
+			"source": "Reddit · r/LawCanada"
+		},
+		{
+			"position": 87,
+			"title": "Working as a Software Developer in a conveyancing law firm",
+			"link": "https://forum.islamicfinanceguru.com/t/working-as-a-software-developer-in-a-conveyancing-law-firm/10471",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://forum.islamicfinanceguru.com/t/working-as-a-software-developer-in-a-conveyancing-law-firm/10471&usg=AOvVaw0Q_2vSxEZXce-aGXDWXI7D",
+			"displayed_link": "https://forum.islamicfinanceguru.com › working-as-a-s...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2ded5bb0780f6fb58b5c091b9827776d2.png",
+			"date": "7 Mar 2024",
+			"snippet": "Asslam o Alaikum Brother, I hope you are well. I would like to know if i can work in a conveyancing law firm as a software developer.",
+			"snippet_highlighted_words": [
+				"conveyancing",
+				"software"
+			],
+			"source": "Islamic Finance Guru"
+		},
+		{
+			"position": 88,
+			"title": "Online Conveyancers",
+			"link": "https://settleeasy.com.au/settle-easy-sets-up-shop-in-wa-and-sa-to-offer-exceptional-conveyancing/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://settleeasy.com.au/settle-easy-sets-up-shop-in-wa-and-sa-to-offer-exceptional-conveyancing/&usg=AOvVaw12vfYMWDY4bt8bAk6swe8K",
+			"displayed_link": "https://settleeasy.com.au › settle-easy-sets-up-shop-in-wa-...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d247f5d17b4968305bbe261d4241963ef6.png",
+			"date": "11 Apr 2024",
+			"snippet": "Settle Easy partners with MRI Software to drive Australia's fastest-growing online conveyancing business, read more.",
+			"snippet_highlighted_words": [
+				"Software",
+				"conveyancing"
+			],
+			"source": "Settle Easy"
+		},
+		{
+			"position": 89,
+			"title": "What AI tools are available for solicitors in Australia?",
+			"link": "https://insight.thomsonreuters.com.au/legal/posts/ai-tools-for-solicitors-in-australia",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://insight.thomsonreuters.com.au/legal/posts/ai-tools-for-solicitors-in-australia&usg=AOvVaw1fGklgiUKvBuJ_1R7AhEFp",
+			"displayed_link": "https://insight.thomsonreuters.com.au › Home › Posts",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d29494396270a5ac2696e890148a5ea451.png",
+			"date": "6 Dec 2023",
+			"snippet": "Discover what AI tools available are for solicitors in Australia. Thomson Reuters offers legal tools and an AI Assistant for enhanced ...",
+			"snippet_highlighted_words": [
+				"solicitors"
+			],
+			"source": "Thomson Reuters"
+		},
+		{
+			"position": 90,
+			"title": "Smokeball Conveyancing Software",
+			"link": "https://winners.australianbusinessawards.com.au/2019-winners/software-innovation-awards-2019/smokeball-conveyancing-software-2019-swr/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://winners.australianbusinessawards.com.au/2019-winners/software-innovation-awards-2019/smokeball-conveyancing-software-2019-swr/&usg=AOvVaw1d62c4QeU31zLtpwUzg8WK",
+			"displayed_link": "https://winners.australianbusinessawards.com.au › smoke...",
+			"date": "18 July 2022",
+			"snippet": "Smokeball Conveyancing Software has been recognised as an ABA100® Winner for Software Innovation in The Australian Business Awards 2019.",
+			"snippet_highlighted_words": [
+				"Conveyancing Software"
+			],
+			"source": "The Australian Business Awards 2024"
+		},
+		{
+			"position": 91,
+			"title": "SettsPlus - Info",
+			"link": "https://settsplus.com.au/InfoSettsPlus.html",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://settsplus.com.au/InfoSettsPlus.html&usg=AOvVaw1Vtl2lo87SyHP6vDtP67cS",
+			"displayed_link": "https://settsplus.com.au › InfoSettsPlus",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d240a0c8cfba1eb2468c69fa7fb5aa0ab4.png",
+			"snippet": "SettsPlus is the industry standard Settlement software package for Conveyancers in Western Australia. SettsPlus is a all-in-one Conveyancing Software tool ...",
+			"snippet_highlighted_words": [
+				"Conveyancing Software"
+			],
+			"source": "SettsPlus"
+		},
+		{
+			"position": 92,
+			"title": "Action Conveyancing",
+			"link": "https://www.monkeyconveyancing.com.au/action-conveyancing",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.monkeyconveyancing.com.au/action-conveyancing&usg=AOvVaw2VDysvo0D4j2lPdSBtp2yB",
+			"displayed_link": "https://www.monkeyconveyancing.com.au › action-con...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2a95c2aba616535e095d3988746f0ef8b.png",
+			"snippet": "solicitors and conveyancers, admin support staff, accounting staff and Practice Manager to run their businesses;; accounting and conveyancing software;; Monkey ...",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "Monkey Conveyancing"
+		},
+		{
+			"position": 93,
+			"title": "Conveyancing Property Search Software",
+			"link": "https://www.insightlegal.co.uk/solicitors-software/enterprise/searches/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.insightlegal.co.uk/solicitors-software/enterprise/searches/&usg=AOvVaw0yq-wsaaL2L0fcy5gz83jM",
+			"displayed_link": "https://www.insightlegal.co.uk › Software › Enterprise",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2a119a541a9bad81e50413ad98b3d5b69.png",
+			"snippet": "Property searches are an essential part of conveyancing case management, which is why Insight Legal Enterprise includes a seamless integration with market ...",
+			"snippet_highlighted_words": [
+				"conveyancing"
+			],
+			"source": "Insight Legal Software"
+		},
+		{
+			"position": 94,
+			"title": "Redbrick Solutions - Home",
+			"link": "https://redbricksolutions.co.uk/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://redbricksolutions.co.uk/&usg=AOvVaw1_9PJ4JZsKH7s20Pm0iRnN",
+			"displayed_link": "https://redbricksolutions.co.uk",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d2a93d8840ad537ff3036f5fc5a0e6f04a.png",
+			"snippet": "Easy to use conveyancing case management software, delivered by experts, for successful law firms.",
+			"snippet_highlighted_words": [
+				"conveyancing",
+				"software"
+			],
+			"source": "Redbrick Solutions"
+		},
+		{
+			"position": 95,
+			"title": "Smokeball conveyancing software | Over the past 11 months ...",
+			"link": "https://www.facebook.com/SmokeballAU/videos/smokeball-conveyancing-software/777418939085316/",
+			"displayed_link": "10+ reactions · 7 years ago",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwFRfsE4x_SeSgRNPaaIESaEt0u1h5oKfavasCNVo2kHQ8&s",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d28b84df6a4c0164ee69e15a5bad5b3a03.png",
+			"snippet": "Over the past 11 months almost 600 Australian Conveyancers have switched to Smokeball Australia. Curious to see what it's all about?",
+			"source": "Facebook · Smokeball Australia"
+		},
+		{
+			"position": 96,
+			"title": "Conveyancing Firms - Work Being Done in Phillipines..........",
+			"link": "https://www.propertychat.com.au/community/threads/conveyancing-firms-work-being-done-in-phillipines.17128/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.propertychat.com.au/community/threads/conveyancing-firms-work-being-done-in-phillipines.17128/&usg=AOvVaw21jXtG406_ZBWyQUSbKlZ3",
+			"displayed_link": "https://www.propertychat.com.au › ... › Legal Issues",
+			"date": "8 Feb 2017",
+			"snippet": "Made me think whether a software driven, almost automated conveyancing business would be an attractive option to people on here. I ...",
+			"snippet_highlighted_words": [
+				"software",
+				"conveyancing"
+			],
+			"source": "PropertyChat"
+		},
+		{
+			"position": 97,
+			"title": "The Pros and Cons of Electronic Conveyancing Software",
+			"link": "https://www.bottrellaccounting.com.au/the-pros-and-cons-of-electronic-conveyancing-software/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.bottrellaccounting.com.au/the-pros-and-cons-of-electronic-conveyancing-software/&usg=AOvVaw2K9y6ssPcg1AiCelwqJ8d3",
+			"displayed_link": "https://www.bottrellaccounting.com.au › the-pros-and-c...",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d260b73a3d7ce219b46870794d8c6b2b96.png",
+			"date": "24 Sept 2018",
+			"snippet": "Pros and cons of using e-Conveyancing software as compared to manual conveyancing · Automatic Billing · Cheaper and Convenient · Transparency.",
+			"snippet_highlighted_words": [
+				"Conveyancing software"
+			],
+			"source": "Bottrell Accountants, Financial Planners & Tax Agents"
+		},
+		{
+			"position": 98,
+			"title": "Practice Management Software for Enterprise Law Firms",
+			"link": "https://www.soslegal.co.uk/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.soslegal.co.uk/&usg=AOvVaw34ki3eciTXsH4af7rzX6f_",
+			"displayed_link": "https://www.soslegal.co.uk",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d282861d465f543f7bcbe1dba858b91aa3.png",
+			"date": "12 June 2024",
+			"snippet": "Specialist features · Conveyancing · Plot Sales · Personal Injury · Debt Recovery · Litigation including group claims · All other Practice areas ...",
+			"snippet_highlighted_words": [
+				"Conveyancing"
+			],
+			"source": "SOS Legal"
+		},
+		{
+			"position": 99,
+			"title": "property conveyancing software",
+			"link": "https://www.flickr.com/photos/188226167@N07/49859060306/",
+			"redirect_link": "https://www.google.com/url?sa=t&url=https://www.flickr.com/photos/188226167@N07/49859060306/&usg=AOvVaw0TbLA21fadB4rrv_ijyXz4",
+			"displayed_link": "https://www.flickr.com › photos",
+			"favicon": "https://serpapi.com/searches/6674a72de13508a356ac6aac/images/d4714b3114ccb7925c05c0493d6fa1d207e668f18c4424ecca32511a8ae3d749.png",
+			"snippet": "Property conveyancing software. Visit: www.conveyancesoft.com.au/",
+			"snippet_highlighted_words": [
+				"conveyancing software"
+			],
+			"source": "Flickr"
+		}
+	],
+	"related_searches": [
+		{
+			"block_position": 1,
+			"query": "best conveyancing software",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=Best+conveyancing+software&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQ1QJ6BQjWAhAB",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=Best+conveyancing+software"
+		},
+		{
+			"block_position": 1,
+			"query": "leap conveyancer download",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=LEAP+Conveyancer+download&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQ1QJ6BQjVAhAB",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=LEAP+Conveyancer+download"
+		},
+		{
+			"block_position": 1,
+			"query": "triconvey login",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=triConvey+login&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQ1QJ6BQjUAhAB",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=triConvey+login"
+		},
+		{
+			"block_position": 1,
+			"query": "triconvey download",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=triConvey+download&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQ1QJ6BQjTAhAB",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=triConvey+download"
+		},
+		{
+			"block_position": 1,
+			"query": "pexa",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=PEXA&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQ1QJ6BQjSAhAB",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=PEXA"
+		},
+		{
+			"block_position": 1,
+			"query": "leap conveyancing",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=LEAP+conveyancing&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQ1QJ6BQjRAhAB",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=LEAP+conveyancing"
+		},
+		{
+			"block_position": 1,
+			"query": "trisearch login",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=triSearch+login&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQ1QJ6BQjQAhAB",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=triSearch+login"
+		},
+		{
+			"block_position": 1,
+			"query": "triconvey support",
+			"link": "https://www.google.com/search?num=100&sca_esv=dfa5edaadff8a781&sca_upv=1&gl=au&hl=en&q=triConvey+support&sa=X&ved=2ahUKEwijvJfgl-uGAxX2oa8BHVFGDckQ1QJ6BQjPAhAB",
+			"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=triConvey+support"
+		}
+	],
+	"pagination": {
+		"current": 1,
+		"next": "https://www.google.com/search?q=conveyancing+software&oq=conveyancing+software&hl=en&gl=au&num=100&start=100&sourceid=chrome&ie=UTF-8",
+		"other_pages": {
+			"2": "https://www.google.com/search?q=conveyancing+software&oq=conveyancing+software&hl=en&gl=au&num=100&start=100&sourceid=chrome&ie=UTF-8",
+			"3": "https://www.google.com/search?q=conveyancing+software&oq=conveyancing+software&hl=en&gl=au&num=100&start=200&sourceid=chrome&ie=UTF-8",
+			"4": "https://www.google.com/search?q=conveyancing+software&oq=conveyancing+software&hl=en&gl=au&num=100&start=300&sourceid=chrome&ie=UTF-8",
+			"5": "https://www.google.com/search?q=conveyancing+software&oq=conveyancing+software&hl=en&gl=au&num=100&start=400&sourceid=chrome&ie=UTF-8"
+		}
+	},
+	"serpapi_pagination": {
+		"current": 1,
+		"next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=conveyancing+software&start=100",
+		"next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=conveyancing+software&start=100",
+		"other_pages": {
+			"2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=conveyancing+software&start=100",
+			"3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=conveyancing+software&start=200",
+			"4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=conveyancing+software&start=300",
+			"5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&hl=en&num=100&q=conveyancing+software&start=400"
+		}
+	}
+}

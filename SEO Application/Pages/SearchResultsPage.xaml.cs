@@ -16,13 +16,14 @@ namespace SEO_Application.Pages
         {
             _searchForm = searchForm;
             _searchController = new SearchController();
-            InitializeComponent();
             _resultForm = new ResultForm(searchForm);
+            InitializeComponent();
             DataContext = _resultForm;
+            LoadSearchData();
         }
 
 
-        private async Task LoadSearchData(SearchForm searchForm)
+        private async Task LoadSearchData()
         {
             var result = _searchController.GetSeoPostition(_searchForm);
             if (result == null||string.IsNullOrWhiteSpace(result.Result))
@@ -32,6 +33,7 @@ namespace SEO_Application.Pages
             else
             {
                 _resultForm = result;
+                DataContext= _resultForm;
             }
         }
         //private async void SearchResultLoaded(object sender, RoutedEventArgs e)

@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System;
 namespace Controllers
 {
     public class SearchController
@@ -24,7 +24,7 @@ namespace Controllers
                 Limit = searchForm.Limit,
                 Url = searchForm.Url,
             };
-            var serpAPIData = _serpAPI.GetOrganicResults((GetSerp)searchForm);
+            var serpAPIData = _serpAPI.GetOrganicResults(searchForm);
             if (serpAPIData == null)
             {
                 result.Result = "";
@@ -35,7 +35,7 @@ namespace Controllers
             return result;
         }
 
-        public List<int> ParseSerpAPIOrganicResults(List<OrganicResult> organicResultsList, string searchURL)
+        private List<int> ParseSerpAPIOrganicResults(List<OrganicResult> organicResultsList, string searchURL)
         {
             var res = new List<int>();
 
@@ -43,7 +43,8 @@ namespace Controllers
             {
                 foreach (var organicResult in organicResultsList)
                 {
-                    if (organicResult?.Link == searchURL)
+
+                    if (organicResult.Link.Contains(searchURL))
                     {
                         res.Add(organicResult.Position.GetValueOrDefault());
                     }
