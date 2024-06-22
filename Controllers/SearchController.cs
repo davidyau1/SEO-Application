@@ -1,5 +1,5 @@
 ﻿using Controllers.Models;
-using SerpAPI.Models;
+using SerpAPILibrary.Models;
 using SerpAPILibrary;
 namespace Controllers
 {

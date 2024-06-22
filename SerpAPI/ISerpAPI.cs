@@ -1,4 +1,5 @@
-﻿using SerpAPI.Models;
+﻿using Newtonsoft.Json.Linq;
+using SerpAPILibrary.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +11,7 @@ namespace SerpAPILibrary
     public interface ISerpAPI
     {
         public List<OrganicResult> GetOrganicResults(GetSerp searchForm);
+
 
     }
 }

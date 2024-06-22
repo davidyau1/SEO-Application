@@ -14,7 +14,7 @@ namespace SEO_Application
         {
             
             InitializeComponent();
-            _searchController = new SearchController(new SerpAPI.SerpAPI());
+            _searchController = new SearchController(new SerpAPILibrary.SerpAPI());
             frame.Navigate(new SearchPage(_searchController));
         }
     }

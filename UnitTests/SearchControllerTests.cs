@@ -1,7 +1,7 @@
 using Controllers;
 using Controllers.Models;
 using Moq;
-using SerpAPI.Models;
+using SerpAPILibrary.Models;
 using SerpAPILibrary;
 namespace UnitTests
 {
